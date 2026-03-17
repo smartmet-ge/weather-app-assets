@@ -75,30 +75,6 @@ import TemperatureLowestLight from '@assets/images/icons/temperature-lowest-ligh
 import Temperature from '@assets/images/icons/temperature.svg';
 import Thunder from '@assets/images/icons/thunder.svg';
 import Time from '@assets/images/icons/time.svg';
-import WarningsFloodingYellow from '@assets/images/icons/warnings-flooding-yellow.svg';
-import WarningsFloodingOrange from '@assets/images/icons/warnings-flooding-orange.svg';
-import WarningsFloodingRed from '@assets/images/icons/warnings-flooding-red.svg';
-import WarningsForestFireWeatherOrange from '@assets/images/icons/warnings-forest-fire-weather-orange.svg';
-import WarningsForestFireWeatherRed from '@assets/images/icons/warnings-forest-fire-weather-red.svg';
-import WarningsForestFireWeatherYellow from '@assets/images/icons/warnings-forest-fire-weather-yellow.svg';
-import WarningsHotWeatherOrange from '@assets/images/icons/warnings-hot-weather-orange.svg';
-import WarningsHotWeatherRed from '@assets/images/icons/warnings-hot-weather-red.svg';
-import WarningsHotWeatherYellow from '@assets/images/icons/warnings-hot-weather-yellow.svg';
-import WarningsPedestrianSafety from '@assets/images/icons/warnings-pedestrian-safety.svg';
-import WarningsRainOrange from '@assets/images/icons/warnings-rain-orange.svg';
-import WarningsRainRed from '@assets/images/icons/warnings-rain-red.svg';
-import WarningsRainYellow from '@assets/images/icons/warnings-rain-yellow.svg';
-import WarningsStatusOrange from '@assets/images/icons/warnings-status-orange.svg';
-import WarningsThunderStormOrange from '@assets/images/icons/warnings-thunder-storm-orange.svg';
-import WarningsThunderStormRed from '@assets/images/icons/warnings-thunder-storm-red.svg';
-import WarningsThunderStormYellow from '@assets/images/icons/warnings-thunder-storm-yellow.svg';
-import WarningsTrafficWeatherOrange from '@assets/images/icons/warnings-traffic-weather-orange.svg';
-import WarningsTrafficWeatherYellow from '@assets/images/icons/warnings-traffic-weather-yellow.svg';
-import WarningsTrafficWeatherRed from '@assets/images/icons/warnings-traffic-weather-red.svg';
-import WarningsUvNote from '@assets/images/icons/warnings-uv-note.svg';
-import WarningsWindOrange from '@assets/images/icons/warnings-wind-orange.svg';
-import WarningsWindRed from '@assets/images/icons/warnings-wind-red.svg';
-import WarningsWindYellow from '@assets/images/icons/warnings-wind-yellow.svg';
 import Warnings from '@assets/images/icons/warnings.svg';
 import WarningsOrangeLight from '@assets/images/icons/warnings-orange-light.svg';
 import WarningsOrangeDark from '@assets/images/icons/warnings-orange-dark.svg';
@@ -318,57 +294,8 @@ const Icon: React.FC<CustomIconProps> = ({ name, ...props }) => {
       return <Thunder {...(props as SvgProps)} />;
     case 'time':
       return <Time {...(props as SvgProps)} />;
-    case 'warnings-flooding-yellow':
-      return <WarningsFloodingYellow {...(props as SvgProps)} />;
-    case 'warnings-flooding-orange':
-      return <WarningsFloodingOrange {...(props as SvgProps)} />;
-    case 'warnings-flooding-red':
-      return <WarningsFloodingRed {...(props as SvgProps)} />;
-    case 'warnings-forest-fire-weather-orange':
-      return <WarningsForestFireWeatherOrange {...(props as SvgProps)} />;
-    case 'warnings-forest-fire-weather-red':
-      return <WarningsForestFireWeatherRed {...(props as SvgProps)} />;
-    case 'warnings-forest-fire-weather-yellow':
-      return <WarningsForestFireWeatherYellow {...(props as SvgProps)} />;
-    case 'warnings-hot-weather-orange':
-    case 'warnings-cold-weather-orange':
-      return <WarningsHotWeatherOrange {...(props as SvgProps)} />;
-    case 'warnings-hot-weather-red':
-    case 'warnings-cold-weather-red':
-      return <WarningsHotWeatherRed {...(props as SvgProps)} />;
-    case 'warnings-hot-weather-yellow':
-    case 'warnings-cold-weather-yellow':
-      return <WarningsHotWeatherYellow {...(props as SvgProps)} />;
-    case 'warnings-pedestrian-safety':
-      return <WarningsPedestrianSafety {...(props as SvgProps)} />;
-    case 'warnings-rain-orange':
-      return <WarningsRainOrange {...(props as SvgProps)} />;
-    case 'warnings-rain-red':
-      return <WarningsRainRed {...(props as SvgProps)} />;
-    case 'warnings-rain-yellow':
-      return <WarningsRainYellow {...(props as SvgProps)} />;
-    case 'warnings-status-orange':
-      return <WarningsStatusOrange {...(props as SvgProps)} />;
-    case 'warnings-thunder-storm-orange':
-      return <WarningsThunderStormOrange {...(props as SvgProps)} />;
-    case 'warnings-thunder-storm-red':
-      return <WarningsThunderStormRed {...(props as SvgProps)} />;
-    case 'warnings-thunder-storm-yellow':
-      return <WarningsThunderStormYellow {...(props as SvgProps)} />;
-    case 'warnings-traffic-weather-orange':
-      return <WarningsTrafficWeatherOrange {...(props as SvgProps)} />;
-    case 'warnings-traffic-weather-yellow':
-      return <WarningsTrafficWeatherYellow {...(props as SvgProps)} />;
-    case 'warnings-traffic-weather-red':
-      return <WarningsTrafficWeatherRed {...(props as SvgProps)} />;
     case 'warnings-uv-note':
       return <WarningsUvNote {...(props as SvgProps)} />;
-    case 'warnings-wind-orange':
-      return <WarningsWindOrange {...(props as SvgProps)} />;
-    case 'warnings-wind-red':
-      return <WarningsWindRed {...(props as SvgProps)} />;
-    case 'warnings-wind-yellow':
-      return <WarningsWindYellow {...(props as SvgProps)} />;
     case 'warnings':
       return <Warnings {...(props as SvgProps)} />;
     case 'warnings-orange-light':
