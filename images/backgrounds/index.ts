@@ -7,7 +7,16 @@ export const backgroundsTablet: WeatherBackground = {};
 export const sunBackground:ImageSourcePropType = require('./sun.jpg');
 export const sunBackgroundDark:ImageSourcePropType = require('./sun-dark.jpg');
 
-export const moonPhaseImages = {};
+export const moonPhaseImages = {
+  newMoon: require('./new_moon.jpg'),
+  waxingCrescent: require('./waxing_crescent.jpg'),
+  firstQuarter: require('./first_quarter.jpg'),
+  waxingGibbous: require('./waxing_gibbous.jpg'),
+  fullMoon: require('./full_moon.jpg'),
+  waningGibbous: require('./waning_gibbous.jpg'),
+  lastQuarter: require('./last_quarter.jpg'),
+  waningCrescent: require('./waning_crescent.jpg'),
+};
 
 type TextColors = {
   day?: 'white' | 'black';

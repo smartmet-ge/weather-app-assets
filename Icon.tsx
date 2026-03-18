@@ -1,5 +1,5 @@
 import React from 'react';
-import { StyleProp, TextStyle, ViewStyle } from 'react-native';
+import { StyleProp, TextStyle, ViewStyle, StyleSheet, Image } from 'react-native';
 
 import IonIcon from 'react-native-vector-icons/Ionicons';
 import { IconProps } from 'react-native-vector-icons/Icon';
@@ -40,9 +40,9 @@ import Play from '@assets/images/icons/play.svg';
 import Plus from '@assets/images/icons/plus.svg';
 import PolarNight from '@assets/images/icons/polar-night.svg';
 import Precipitation from '@assets/images/icons/precipitation.svg';
-import ProviderLogoEn from '@assets/images/icons/provider-logo-en.svg';
-import ProviderLogoFi from '@assets/images/icons/provider-logo-fi.svg';
-import ProviderLogoSv from '@assets/images/icons/provider-logo-sv.svg';
+//import ProviderLogoEn from '@assets/images/icons/provider-logo-en.svg';
+//import ProviderLogoFi from '@assets/images/icons/provider-logo-fi.svg';
+//import ProviderLogoSv from '@assets/images/icons/provider-logo-sv.svg';
 import RadioButtonOff from '@assets/images/icons/radio-button-off.svg';
 import RadioButtonOn from '@assets/images/icons/radio-button-on.svg';
 import RainDark from '@assets/images/icons/rain-dark.svg';
@@ -51,14 +51,8 @@ import RainWhite from '@assets/images/icons/rain-white.svg';
 import Search from '@assets/images/icons/search.svg';
 import Settings from '@assets/images/icons/settings.svg';
 import Snow from '@assets/images/icons/snow.svg';
-import SocialInstagramDark from '@assets/images/icons/social-instagram-dark.svg';
-import SocialTwitterDark from '@assets/images/icons/social-x-logo-dark.svg';
-import SocialYoutubeDark from '@assets/images/icons/social-youtube-dark.svg';
-import SocialFacebookDark from '@assets/images/icons/social-facebook-dark.svg';
-import SocialInstagramLight from '@assets/images/icons/social-instagram-light.svg';
-import SocialTwitterLight from '@assets/images/icons/social-x-logo-light.svg';
-import SocialYoutubeLight from '@assets/images/icons/social-youtube-light.svg';
-import SocialFacebookLight from '@assets/images/icons/social-facebook-light.svg';
+import SocialYoutube from '@assets/images/icons/social-youtube.svg';
+import SocialFacebook from '@assets/images/icons/social-facebook.svg';
 import StarSelected from '@assets/images/icons/star-selected.svg';
 import StarUnselected from '@assets/images/icons/star-unselected.svg';
 import SunArrowDown from '@assets/images/icons/sun-arrow-down.svg';
@@ -139,6 +133,11 @@ import SeaWindWarning from '@assets/images/icons/warnings/warnings_sea_wind.svg'
 import TrafficWeatherWarning from '@assets/images/icons/warnings/warnings_traffic_weather.svg';
 import UVNoteWarning from '@assets/images/icons/warnings/warnings_uv_note.svg';
 import WindWarning from '@assets/images/icons/warnings/warnings_wind.svg';
+
+// PNG icons
+
+const ProviderLogoLight = require('@assets/images/provider-logo-light.png');
+const ProviderLogoDark = require('@assets/images/provider-logo-dark.png');
 
 import { SvgProps } from 'react-native-svg';
 
@@ -224,12 +223,10 @@ const Icon: React.FC<CustomIconProps> = ({ name, ...props }) => {
       return <PolarNight {...(props as SvgProps)} />;
     case 'precipitation':
       return <Precipitation {...(props as SvgProps)} />;
-    case 'provider-logo-en':
-      return <ProviderLogoEn {...(props as SvgProps)} />;
-    case 'provider-logo-fi':
-      return <ProviderLogoFi {...(props as SvgProps)} />;
-    case 'provider-logo-sv':
-      return <ProviderLogoSv {...(props as SvgProps)} />;
+    case 'provider-logo-light':
+      return <Image source={ProviderLogoLight} resizeMode="contain" style={styles.providerLogo} />
+    case 'provider-logo-dark':
+      return <Image source={ProviderLogoDark} resizeMode="contain" style={styles.providerLogo} />
     case 'radio-button-off':
       return <RadioButtonOff {...(props as SvgProps)} />;
     case 'radio-button-on':
@@ -246,22 +243,14 @@ const Icon: React.FC<CustomIconProps> = ({ name, ...props }) => {
       return <Settings {...(props as SvgProps)} />;
     case 'snow':
       return <Snow {...(props as SvgProps)} />;
-    case 'social-instagram-dark':
-      return <SocialInstagramDark {...(props as SvgProps)} />;
-    case 'social-twitter-dark':
-      return <SocialTwitterDark {...(props as SvgProps)} />;
     case 'social-youtube-dark':
-      return <SocialYoutubeDark {...(props as SvgProps)} />;
+      return <SocialYoutube {...(props as SvgProps)} />;
     case 'social-facebook-dark':
-      return <SocialFacebookDark {...(props as SvgProps)} />;
-    case 'social-instagram-light':
-      return <SocialInstagramLight {...(props as SvgProps)} />;
-    case 'social-twitter-light':
-      return <SocialTwitterLight {...(props as SvgProps)} />;
+      return <SocialFacebook {...(props as SvgProps)} />;
     case 'social-youtube-light':
-      return <SocialYoutubeLight {...(props as SvgProps)} />;
+      return <SocialYoutube {...(props as SvgProps)} />;
     case 'social-facebook-light':
-      return <SocialFacebookLight {...(props as SvgProps)} />;
+      return <SocialFacebook {...(props as SvgProps)} />;
     case 'star-selected':
       return <StarSelected {...(props as SvgProps)} />;
     case 'star-unselected':
@@ -294,8 +283,6 @@ const Icon: React.FC<CustomIconProps> = ({ name, ...props }) => {
       return <Thunder {...(props as SvgProps)} />;
     case 'time':
       return <Time {...(props as SvgProps)} />;
-    case 'warnings-uv-note':
-      return <WarningsUvNote {...(props as SvgProps)} />;
     case 'warnings':
       return <Warnings {...(props as SvgProps)} />;
     case 'warnings-orange-light':
@@ -432,5 +419,12 @@ const Icon: React.FC<CustomIconProps> = ({ name, ...props }) => {
       return <IonIcon name={name} {...props} />;
   }
 };
+
+const styles = StyleSheet.create({
+  providerLogo: {
+    width: 120,
+    height: 35,
+  },
+});
 
 export default Icon;
