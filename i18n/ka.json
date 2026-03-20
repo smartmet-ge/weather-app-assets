@@ -7,7 +7,7 @@
       "observationAccessibilityHint": "The same data is presented in an accessible format in the List view",
       "cloud": "Cloud base",
       "cloudAccessibilityLabel": "Open the cloud base graphic",
-      "dewPoint": "Dew point",
+      "dewPoint": "Dew point ",
       "humidity": "Humidity",
       "relativeHumidity": "Relative humidity",
       "humidityAccessibilityLabel": "Open the humidity graph",
