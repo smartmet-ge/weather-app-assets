@@ -170,7 +170,7 @@ export const darkTheme = {
     warningCardBorder: GRAY_4,
     weatherButtonBackground: GRAY_4_OPACITY_50,
     meteorologistSnapshotCard: GRAY_6,
-    forecastBackground: GRAY_1,
+    forecastBackground: GRAY_2,
   },
   fonts,
 };
