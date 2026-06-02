@@ -111,6 +111,7 @@ export const lightTheme = {
     warningCardBorder: MEDIUM_BLUE,
     weatherButtonBackground: GRAY_11_OPACITY_50,
     meteorologistSnapshotCard: '#f3f3f3',
+    forecastBackground: MEDIUM_BLUE,
   },
   fonts
 };
@@ -169,6 +170,7 @@ export const darkTheme = {
     warningCardBorder: GRAY_4,
     weatherButtonBackground: GRAY_4_OPACITY_50,
     meteorologistSnapshotCard: GRAY_6,
+    forecastBackground: GRAY_1,
   },
   fonts,
 };
