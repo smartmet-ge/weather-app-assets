@@ -1,35 +1,23 @@
-import aboutTheApplicationFi from './AboutTheApplicationFi';
+import aboutTheApplicationGe from './AboutTheApplicationGe';
 import aboutTheApplicationEn from './AboutTheApplicationEn';
-import aboutTheApplicationSv from './AboutTheApplicationSv';
-import aboutTheApplicationEs from './AboutTheApplicationEs';
 
-import accessibilityFi from './AccessibilityFi';
+import accessibilityGe from './AccessibilityGe';
 import accessibilityEn from './AccessibilityEn';
-import accessibilitySv from './AccessibilitySv';
-import accessibilityEs from './AccessibilityEs';
 
-import termsFi from './TermsOfUseFi';
+import termsGe from './TermsOfUseGe';
 import termsEn from './TermsOfUseEn';
-import termsSv from './TermsOfUseSv';
-import termsEs from './TermsOfUseEs';
 
 export const aboutTheApplicationDocuments = {
-  fi: aboutTheApplicationFi,
+  ge: aboutTheApplicationGe,
   en: aboutTheApplicationEn,
-  sv: aboutTheApplicationSv,
-  es: aboutTheApplicationEs,
 }
 
 export const accessibilityDocuments = {
-  fi: accessibilityFi,
+  ge: accessibilityGe,
   en: accessibilityEn,
-  sv: accessibilitySv,
-  es: accessibilityEs,
 }
 
 export const termsOfUseDocuments = {
-  fi: termsFi,
+  ge: termsGe,
   en: termsEn,
-  sv: termsSv,
-  es: termsEs,
 }
