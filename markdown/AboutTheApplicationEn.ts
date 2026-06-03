@@ -1,4 +1,3 @@
-```js
 const aboutTheApplicationEn = `
 # The Weather app by the National Environmental Agency of Georgia
 
@@ -16,4 +15,3 @@ The purpose of the application is to provide clear, accessible and official weat
 `;
 
 export default aboutTheApplicationEn;
-```

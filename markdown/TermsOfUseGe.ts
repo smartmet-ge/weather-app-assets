@@ -1,4 +1,3 @@
-```js
 const termsKa = `
 # ამინდის მობილური აპლიკაციის გამოყენების წესები საქართველოს გარემოს ეროვნული სააგენტოსთვის
 
@@ -84,11 +83,12 @@ const termsKa = `
 
 ტელეფონი: 1501
 
-ელფოსტა: info@nea.gov.ge
+ელფოსტა: 
+info@nea.gov.ge
 
-ვებგვერდი: https://nea.gov.ge
+ვებგვერდი: 
+https://nea.gov.ge
 
 `;
 
 export default termsKa;
-```

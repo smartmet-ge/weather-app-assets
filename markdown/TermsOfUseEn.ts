@@ -1,4 +1,3 @@
-```js
 const termsEn = `
 # Terms of Use for the Weather mobile application by the National Environmental Agency of Georgia
 
@@ -84,11 +83,12 @@ Address: 150 Davit Aghmashenebeli Ave. 0112 Tbilisi, Georgia
 
 Phone: 1501
 
-Email: info@nea.gov.ge
+Email: 
+info@nea.gov.ge
 
-Website: https://nea.gov.ge
+Website: 
+https://nea.gov.ge
 
 `;
 
 export default termsEn;
-```

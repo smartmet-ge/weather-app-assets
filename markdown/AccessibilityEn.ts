@@ -1,4 +1,3 @@
-```js
 const accessibilityEn = `
 # Accessibility of the National Environmental Agency of Georgia's Weather application
 
@@ -73,4 +72,3 @@ Website: https://nea.gov.ge
 `;
 
 export default accessibilityEn;
-```

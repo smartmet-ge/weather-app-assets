@@ -1,4 +1,3 @@
-```js
 const aboutTheApplicationKa = `
 # ამინდის აპლიკაცია საქართველოს გარემოს ეროვნული სააგენტოსგან
 
@@ -16,4 +15,3 @@ const aboutTheApplicationKa = `
 `;
 
 export default aboutTheApplicationKa;
-```

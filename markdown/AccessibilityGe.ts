@@ -1,4 +1,3 @@
-```js
 const accessibilityKa = `
 # საქართველოს გარემოს ეროვნული სააგენტოს ამინდის აპლიკაციის ხელმისაწვდომობა
 
@@ -73,4 +72,3 @@ info@nea.gov.ge
 `;
 
 export default accessibilityKa;
-```
