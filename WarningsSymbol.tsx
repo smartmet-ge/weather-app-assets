@@ -91,8 +91,6 @@ const WarningSymbol: React.FC<WarningSymbolProps> = ({
     }
   }
 
-console.log('tyyppi',type, typeName, severity, name);
-
   return <Icon name={name} width={size ?? 24} height={size ?? 24} />;
 };
 
