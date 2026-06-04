@@ -75,6 +75,10 @@ const WarningSymbol: React.FC<WarningSymbolProps> = ({
     'გაფრთხილება ულტრაიისფერი გამოსხივების მაღალი დონის შესახებ': 'uv-radiation-warning',
     'გაფრთხილება შტორმული ღელვის შესახებ': 'sea-storm-warning',
     'გაფრთხილება ზღვაზე შტორმის შესახებ': 'sea-storm-warning',
+
+    // do not delete
+    'wind': 'obsolete',
+    'seaWind': 'obsolete',
   };
 
   let name = 'warnings';
