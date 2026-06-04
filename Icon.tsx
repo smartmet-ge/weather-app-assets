@@ -116,26 +116,28 @@ import FeelsLikeWindy from '@assets/images/feelslike/windy.svg';
 import FeelsLikeWinter from '@assets/images/feelslike/winter.svg';
 import FeelsLikeXmas from '@assets/images/feelslike/xmas.svg';
 
-// FMI warning icons
-
-import HotWeatherWarning from '@assets/images/icons/warnings/warnings_hot_weather.svg';
-import FloodWarning from '@assets/images/icons/warnings/warnings_flood.svg';
-import GrassFireWeatherWarning from '@assets/images/icons/warnings/warnings_grass_fire_weather.svg';
-import PedestrianSafetyWarning from '@assets/images/icons/warnings/warnings_pedestrian_safety.svg';
-import ColdWeatherWarning from '@assets/images/icons/warnings/warnings_cold_weather.svg';
-import RainWarning from '@assets/images/icons/warnings/warnings_rain.svg';
-import IcingWarning from '@assets/images/icons/warnings/warnings_icing.svg';
-import ThunderstormWarning from '@assets/images/icons/warnings/warnings_thunder_storm.svg';
-import SeaWaterHeightHighWarning from '@assets/images/icons/warnings/warnings_sea_water_height_high.svg';
-import SeaWaterHeightShallowWarning from '@assets/images/icons/warnings/warnings_sea_water_height_shallow.svg';
-import SeaWaveHeightWarning from '@assets/images/icons/warnings/warnings_sea_wave_height.svg';
-import SeaWindWarning from '@assets/images/icons/warnings/warnings_sea_wind.svg';
-import TrafficWeatherWarning from '@assets/images/icons/warnings/warnings_traffic_weather.svg';
-import UVNoteWarning from '@assets/images/icons/warnings/warnings_uv_note.svg';
-import WindWarning from '@assets/images/icons/warnings/warnings_wind.svg';
+// NEA warning icons
+import WarningWind from '@assets/images/icons/warnings/wind-warning.svg';
+import WarningHeavyPrecipitation from '@assets/images/icons/warnings/rain-warning.svg';
+import WarningThunderstorm from '@assets/images/icons/warnings/thunderstorm-warning.svg';
+import WarningAvalanche from '@assets/images/icons/warnings/avalanche-warning.svg';
+import WarningHail from '@assets/images/icons/warnings/hail-warning.svg';
+import WarningFlashFlood from '@assets/images/icons/warnings/flash-flood-warning.svg';
+import WarningFlood from '@assets/images/icons/warnings/flood-warning.svg';
+import WarningSnow from '@assets/images/icons/warnings/snowfall-warning.svg';
+import WarningHighDaytimeTemperature from '@assets/images/icons/warnings/high-day-temp-warning.svg';
+import WarningHighNighttimeTemperature from '@assets/images/icons/warnings/high-night-temp-warning.svg';
+import WarningLowTemperature from '@assets/images/icons/warnings/low-day-temp-warning.svg';
+import WarningEarlyFrost from '@assets/images/icons/warnings/frost-warning.svg';
+import WarningLateFrost from '@assets/images/icons/warnings/frost-warning.svg';
+import WarningFog from '@assets/images/icons/warnings/fog-warning.svg';
+import WarningMudflow from '@assets/images/icons/warnings/mudflow-warning.svg';
+import WarningLandslide from '@assets/images/icons/warnings/landslides-warning.svg';
+import WarningAirquality from '@assets/images/icons/warnings/air-quality-warning.svg';
+import WarningUV from '@assets/images/icons/warnings/uv-warning.svg';
+import WarningSeaStorm from '@assets/images/icons/warnings/sea-storm-warning.svg';
 
 // PNG icons
-
 const ProviderLogoLight = require('@assets/images/provider-logo-light.png');
 const ProviderLogoDark = require('@assets/images/provider-logo-dark.png');
 
@@ -368,53 +370,101 @@ const Icon: React.FC<CustomIconProps> = ({ name, ...props }) => {
     case 'wind-arrow-6':
       return <WindArrow6 {...(props as SvgProps)} />;
 
-     /*
-      'thunderstorm',
-      'wind',
-      'rain',
-      'trafficWeather',
-      'pedestrianSafety',
-      'forestFireWeather',
-      'hotWeather',
-      'coldWeather',
-      'uvNote',
-      'flooding',
-      */
+    case 'warnings-strong-wind-warning-yellow':
+    case 'warnings-strong-wind-warning-orange':
+    case 'warnings-strong-wind-warning-red':
+      return <WarningWind {...(props as SvgProps)} />;
+    case 'warnings-heavy-precipitation-warning-yellow':
+    case 'warnings-heavy-precipitation-warning-orange':
+    case 'warnings-heavy-precipitation-warning-red':
+      return <WarningHeavyPrecipitation {...(props as SvgProps)} />;
+    case 'warnings-thunderstorm-warning-yellow':
+    case 'warnings-thunderstorm-warning-orange':
+    case 'warnings-thunderstorm-warning-red':
+      return <WarningThunderstorm {...(props as SvgProps)} />;
+    case 'warnings-avalanche-danger-warning-yellow':
+    case 'warnings-avalanche-danger-warning-orange':
+    case 'warnings-avalanche-danger-warning-red':
+      return <WarningAvalanche {...(props as SvgProps)} />;
+    case 'warnings-hail-warning-yellow':
+    case 'warnings-hail-warning-orange':
+    case 'warnings-hail-warning-red':
+      return <WarningHail {...(props as SvgProps)} />;
+    case 'warnings-flash-flood-warning-yellow':
+    case 'warnings-flash-flood-warning-orange':
+    case 'warnings-flash-flood-warning-red':
+      return <WarningFlashFlood {...(props as SvgProps)} />;
+    case 'warnings-flash-flood-warning-yellow':
+    case 'warnings-flash-flood-warning-orange':
+    case 'warnings-flash-flood-warning-red':
+      return <WarningFlashFlood {...(props as SvgProps)} />;
+    case 'warnings-flood-warning-yellow':
+    case 'warnings-flood-warning-orange':
+    case 'warnings-flood-warning-red':
+      return <WarningFlood {...(props as SvgProps)} />;
+    case 'warnings-heavy-snowfall-warning-yellow':
+    case 'warnings-heavy-snowfall-warning-orange':
+    case 'warnings-heavy-snowfall-warning-red':
+    case 'warnings-heavy-snowfall-and-strong-wind-warning-red':
+      return <WarningSnow {...(props as SvgProps)} />;
+    case 'warnings-high-daytime-temperature-warning-yellow':
+    case 'warnings-high-daytime-temperature-warning-orange':
+    case 'warnings-high-daytime-temperature-warning-red':
+      return <WarningHighDaytimeTemperature {...(props as SvgProps)} />;
+    case 'warnings-high-nighttime-temperature-warning-yellow':
+    case 'warnings-high-nighttime-temperature-warning-orange':
+    case 'warnings-high-nighttime-temperature-warning-red':
+      return <WarningHighNighttimeTemperature {...(props as SvgProps)} />;
+    case 'warnings-low-temperature-warning-yellow':
+    case 'warnings-low-temperature-warning-orange':
+    case 'warnings-low-temperature-warning-red':
+      return <WarningLowTemperature {...(props as SvgProps)} />;
+    case 'warnings-early-frost-warning-yellow':
+    case 'warnings-early-frost-warning-orange':
+    case 'warnings-early-frost-warning-red':
+      return <WarningEarlyFrost {...(props as SvgProps)} />;
+    case 'warnings-late-frost-warning-yellow':
+    case 'warnings-late-frost-warning-orange':
+    case 'warnings-late-frost-warning-red':
+      return <WarningLateFrost {...(props as SvgProps)} />;
+    case 'warnings-fog-warning-yellow':
+    case 'warnings-fog-warning-orange':
+    case 'warnings-fog-warning-red':
+      return <WarningFog {...(props as SvgProps)} />;
+    case 'warnings-mudflow-warning-yellow':
+    case 'warnings-mudflow-warning-orange':
+    case 'warnings-mudflow-warning-red':
+      return <WarningMudflow {...(props as SvgProps)} />;
+    case 'warnings-landslide-advisory-yellow':
+    case 'warnings-landslide-advisory-orange':
+    case 'warnings-landslide-advisory-red':
+    case 'warnings-landslide-warning-yellow':
+    case 'warnings-landslide-warning-orange':
+    case 'warnings-landslide-warning-red':
+      return <WarningLandslide {...(props as SvgProps)} />;
+    case 'warnings-airquality-warning-yellow':
+    case 'warnings-airquality-warning-orange':
+    case 'warnings-airquality-warning-red':
+      return <WarningAirquality {...(props as SvgProps)} />;
+    case 'warnings-uv-radiation-warning-yellow':
+    case 'warnings-uv-radiation-warning-orange':
+    case 'warnings-uv-radiation-warning-red':
+      return <WarningUV {...(props as SvgProps)} />;
+    case 'warnings-sea-storm-warning-yellow':
+    case 'warnings-sea-storm-warning-orange':
+    case 'warnings-sea-storm-warning-red':
+      return <WarningSeaStorm {...(props as SvgProps)} />;
+      
+    /*
+    case 'warnings--yellow':
+    case 'warnings--orange':
+    case 'warnings--red':
+      return < {...(props as SvgProps)} />;
 
-    case 'fmi-warnings-coldWeather':
-      return <ColdWeatherWarning {...(props as SvgProps)} />;
-    case 'fmi-warnings-flooding':
-      return <FloodWarning {...(props as SvgProps)} />;
-    case 'fmi-warnings-forestFireWeather':
-      return <GrassFireWeatherWarning {...(props as SvgProps)} />;
-    case 'fmi-warnings-hotWeather':
-      return <HotWeatherWarning {...(props as SvgProps)} />;
-    case 'fmi-warnings-icing':
-      return <IcingWarning {...(props as SvgProps)} />;
-    case 'fmi-warnings-seaIcing':
-      return <IcingWarning {...(props as SvgProps)} />;
-    case 'fmi-warnings-pedestrianSafety':
-      return <PedestrianSafetyWarning {...(props as SvgProps)} />;
-    case 'fmi-warnings-rain':
-      return <RainWarning {...(props as SvgProps)} />;
-    case 'fmi-warnings-seaWaterHeightHighWater':
-      return <SeaWaterHeightHighWarning {...(props as SvgProps)} />;
-    case 'fmi-warnings-seaWaterHeightShallowWater':
-      return <SeaWaterHeightShallowWarning {...(props as SvgProps)} />;
-    case 'fmi-warnings-seaWaveHeight':
-      return <SeaWaveHeightWarning {...(props as SvgProps)} />;
-    case 'fmi-warnings-seaWind':
-      return <SeaWindWarning {...(props as SvgProps)} />;
-    case 'fmi-warnings-seaThunderStorm':
-      return <ThunderstormWarning {...(props as SvgProps)} />;
-    case 'fmi-warnings-thunderstorm':
-      return <ThunderstormWarning {...(props as SvgProps)} />;
-    case 'fmi-warnings-trafficWeather':
-      return <TrafficWeatherWarning {...(props as SvgProps)} />;
-    case 'fmi-warnings-uvNote':
-      return <UVNoteWarning {...(props as SvgProps)} />;
-    case 'fmi-warnings-wind':
-      return <WindWarning {...(props as SvgProps)} />;
+    */
+
+      
+      
     default:
       return <IonIcon name={name} {...props} />;
   }

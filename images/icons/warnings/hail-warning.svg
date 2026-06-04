@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 30 30">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+      }
+
+      .st1 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st2 {
+        clip-path: url(#clippath-3);
+      }
+
+      .st3 {
+        clip-path: url(#clippath-4);
+      }
+
+      .st4 {
+        clip-path: url(#clippath-2);
+      }
+    </style>
+    <clipPath id="clippath-1">
+      <rect class="st0" width="30" height="30"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="st0" width="30" height="30"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="st0" width="30" height="30"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect class="st0" width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g class="st1">
+    <path d="M14.65,6.65h0c2.08,0,3.85,1.33,4.5,3.18.19-.03.39-.05.59-.05,2.1,0,3.81,1.7,3.81,3.81s-1.7,3.81-3.81,3.81h-10.13c-1.76,0-3.19-1.43-3.19-3.19s1.43-3.19,3.19-3.19h.27c.21-2.45,2.26-4.37,4.76-4.37"/>
+  </g>
+  <polygon points="14.99 21.34 15.98 21.91 15.98 23.05 14.99 23.62 14.01 23.05 14.01 21.91 14.99 21.34"/>
+  <g class="st4">
+    <path d="M15.02,16.69h0c.28,0,.52.23.52.52v2.89c0,.28-.23.52-.52.52s-.52-.23-.52-.52v-2.89c0-.29.23-.52.52-.52"/>
+  </g>
+  <polygon points="11.79 20.31 12.77 20.88 12.77 22.02 11.79 22.59 10.8 22.02 10.8 20.88 11.79 20.31"/>
+  <g class="st2">
+    <path d="M11.81,15.66h0c.29,0,.52.23.52.52v2.89c0,.29-.23.52-.52.52s-.52-.23-.52-.52v-2.89c0-.29.23-.52.52-.52"/>
+  </g>
+  <polygon points="18.2 20.31 19.18 20.88 19.18 22.02 18.2 22.59 17.21 22.02 17.21 20.88 18.2 20.31"/>
+  <g class="st3">
+    <path d="M18.22,15.66h0c.29,0,.52.23.52.52v2.89c0,.29-.23.52-.52.52s-.52-.23-.52-.52v-2.89c0-.29.23-.52.52-.52"/>
+  </g>
+</svg>
