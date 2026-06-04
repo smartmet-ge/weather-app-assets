@@ -455,16 +455,6 @@ const Icon: React.FC<CustomIconProps> = ({ name, ...props }) => {
     case 'warnings-sea-storm-warning-red':
       return <WarningSeaStorm {...(props as SvgProps)} />;
       
-    /*
-    case 'warnings--yellow':
-    case 'warnings--orange':
-    case 'warnings--red':
-      return < {...(props as SvgProps)} />;
-
-    */
-
-      
-      
     default:
       return <IonIcon name={name} {...props} />;
   }
