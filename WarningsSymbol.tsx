@@ -1,17 +1,24 @@
+import React from 'react';
+import { View } from 'react-native';
+
 import Icon from '@assets/Icon';
 import { Severity, WarningType } from '@store/warnings/types';
-import React from 'react';
+import { Config } from '@config';
 
 type WarningSymbolProps = {
   type: WarningType;
   severity: Severity;
   size?: number;
+  square?: boolean;
 };
 const WarningSymbol: React.FC<WarningSymbolProps> = ({
   type,
   severity,
   size,
+  square,
 }) => {
+  const { capViewSettings } = Config.get('warnings');
+
   const colorMap: { [key in Severity]: string } = {
     Moderate: 'yellow',
     Severe: 'orange',
@@ -91,7 +98,17 @@ const WarningSymbol: React.FC<WarningSymbolProps> = ({
     }
   }
 
-  return <Icon name={name} width={size ?? 24} height={size ?? 24} />;
+  const borderRadius = square ? 0 : (size ?? 24) / 2;
+
+  if (capViewSettings?.severityBackgroundInSymbol && severity) {
+    return (
+      <View style={[{ backgroundColor: colorMap[severity], borderRadius }]}>
+        <Icon name={name} width={size ?? 24} height={size ?? 24} />
+      </View>
+    );
+  } else {
+    return <Icon name={name} width={size ?? 24} height={size ?? 24} />;
+  }
 };
 
 export default WarningSymbol;
