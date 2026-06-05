@@ -8,16 +8,16 @@ import termsGe from './TermsOfUseGe';
 import termsEn from './TermsOfUseEn';
 
 export const aboutTheApplicationDocuments = {
-  ge: aboutTheApplicationGe,
+  ka: aboutTheApplicationGe,
   en: aboutTheApplicationEn,
 }
 
 export const accessibilityDocuments = {
-  ge: accessibilityGe,
+  ka: accessibilityGe,
   en: accessibilityEn,
 }
 
 export const termsOfUseDocuments = {
-  ge: termsGe,
+  ka: termsGe,
   en: termsEn,
 }
