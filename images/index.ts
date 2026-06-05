@@ -515,7 +515,16 @@ export const symbolsDark: WeatherSymbol = {
   },
 };
 
-export const providerLogos: LanguageSpecificImage = {};
+export const providerLogos: LanguageSpecificImage = {
+  "ka": {
+    light: require('./provider-logo-light-ka.png'),
+    dark: require('./provider-logo-dark-ka.png'),
+  },
+  "en": {
+    light: require('./provider-logo-light-en.png'),
+    dark: require('./provider-logo-dark-en.png'),
+  },
+};
 
 export type WeatherSymbol = {
   [key: string]: {
