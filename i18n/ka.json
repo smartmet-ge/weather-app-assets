@@ -364,7 +364,7 @@
     "pauseButton": "შეჩერება",
     "relocateButtonAccessibilityLabel": "დაბრუნდი არჩეულ მდებარეობაზე",
     "relocateButtonText": "ცენტრში დაბრუნება",
-    "selectionButtonAccessibilityLabel": "დროის ნაბიჯების სლაიდერის ჩვენება",
+    "selectionButtonAccessibilityLabel": "დროითი ბიჯის ჩვენება",
     "noLocationPermission": "აპლიკაციას არ აქვს თქვენი მდებარეობის გამოყენების ნებართვა",
     "noLocationPermissionHint": "მიეცით აპლიკაციას მდებარეობაზე წვდომის ნებართვა პარამეტრებში.",
     "timeSlider": {
@@ -379,17 +379,17 @@
       "Slow": "ნელი",
       "Normal": "ნორმალური",
       "Fast": "სწრაფი",
-      "showLocationAccessibilityHint": "ორჯერ შეეხეთ მიმდინარე მდებარეობის რუკაზე საჩვენებლად",
-      "hideLocationAccessibilityHint": "ორჯერ შეეხეთ მიმდინარე მდებარეობის რუკიდან დასამალად",
+      "showLocationAccessibilityHint": "მიმდინარე მდებარეობის რუკაზე საჩვენებლად დააჭირეთ ორჯერ",
+      "hideLocationAccessibilityHint": "მიმდინარე მდებარეობის რუკიდან დასამალად დააჭირეთ ორჯერ",
       "localWeatherTitle": "ადგილობრივი ამინდი",
       "showOnMap": "რუკაზე ჩვენება",
       "temperatureAndWeather": "ტემპერატურა და ამინდი",
       "precipitationAndPropability": "ნალექი და ალბათობა",
       "mapLayersTitle": "რუკის ფენები",
-      "rainRadar": "წვიმის რადარი",
+      "rainRadar": "ამინდის რადარი",
       "notSelected": "არ არის არჩეული",
-      "selectLayerAccessibilityHint": "შეეხეთ რუკის ფენის ასარჩევად",
-      "selectSpeedAccessibilityHint": "შეეხეთ ანიმაციის სიჩქარის ასარჩევად"
+      "selectLayerAccessibilityHint": "დააჭირეთ რუკის ფენის ასარჩევად",
+      "selectSpeedAccessibilityHint": "დააჭირეთ ანიმაციის სიჩქარის ასარჩევად"
     },
     "infoBottomSheet": {
       "closeAccessibilityLabel": "დახურე რუკის ინფორმაცია",
@@ -404,7 +404,7 @@
         "moderate": "ზომიერი",
         "strong": "ძლიერი",
         "precipitationFin": {
-          "description": "ფინური რადარული კომბინაცია 15-წუთიანი დროითი ნაბიჯით.",
+          "description": "რადარული კომბინაცია 10-წუთიანი დროითი ნაბიჯით.",
           "observation": "რუკაზე ნაჩვენები ნალექის დაკვირვება გაზომილია საქართველოს ამინდის რადარებით.",
           "forecast": "ნალექის პროგნოზი წარმოადგენს მოკლევადიან პროგნოზს, რომელიც ეფუძნება რადარის სურათებსა და ამინდის მოდელებს."
         },
@@ -453,7 +453,7 @@
           "long": "ფენა აჩვენებს ტემპერატურას 3-საათიანი დროითი ნაბიჯით მომდევნო საათიდან სამი დღის განმავლობაში."
         }
       },
-      "timeseriesLayerInfo": "რუკაზე ამინდის პროგნოზი მსოფლიოს მრავალ მდებარეობაზე აჩვენებს ამინდის სიმბოლოს და ტემპერატურას. შეეხეთ სიმბოლოს მეტი ინფორმაციის სანახავად.",
+      "timeseriesLayerInfo": "რუკაზე ამინდის პროგნოზი აჩვენებს ამინდის სიმბოლოს და ტემპერატურას. აირჩიეთ სიმბოლოს მეტი ინფორმაციის სანახავად.",
       "markdownLoadingFailed": "რუკის ფენის აღწერის ჩატვირთვა ვერ მოხერხდა"
     }
   },
