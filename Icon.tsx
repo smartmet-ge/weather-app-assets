@@ -405,6 +405,8 @@ const Icon: React.FC<CustomIconProps> = ({ name, ...props }) => {
     case 'warnings-heavy-snowfall-warning-yellow':
     case 'warnings-heavy-snowfall-warning-orange':
     case 'warnings-heavy-snowfall-warning-red':
+    case 'warnings-heavy-snowfall-and-strong-wind-warning-yellow':
+    case 'warnings-heavy-snowfall-and-strong-wind-warning-orange':
     case 'warnings-heavy-snowfall-and-strong-wind-warning-red':
       return <WarningSnow {...(props as SvgProps)} />;
     case 'warnings-high-daytime-temperature-warning-yellow':
