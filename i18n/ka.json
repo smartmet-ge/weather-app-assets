@@ -691,7 +691,16 @@
     "hoursSpoken": "საათი",
     "minutesSpoken": "წუთი"
   },
-  "unitAbbreviations": {},
+  "unitAbbreviations": {
+    "h": "TODO",
+    "min": "TODO",
+    "mm": "TODO",
+    "m/s": "TODO",
+    "hPa": "TODO",
+    "mbar": "TODO",
+    "km/h": "TODO",
+    "mmHg": "TODO"
+  },
   "markdownRenderer": {
     "radarLegendDescription": "ნალექის ინტენსივობის შკალა"
   },
