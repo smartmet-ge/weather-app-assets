@@ -1,5 +1,5 @@
 const aboutTheApplicationEn = `
-# The Weather app by the National Environmental Agency of Georgia
+# The Weather app by the National Environmental Agency of Georgia fgdgjdfklgjlkssggr
 
 The Weather app by the National Environmental Agency of Georgia provides users with official weather information, forecasts, observations and warnings for locations across Georgia.
 
