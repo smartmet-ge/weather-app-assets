@@ -1,4 +1,4 @@
-export const PRIMARY_BLUE = '#303193';
+export const PRIMARY_BLUE = '#FF0000';
 export const SECONDARY_BLUE = '#3A66E3';
 export const GRAYISH_BLUE = '#D8E7F2'; // line-light-mode
 export const LIGHT_BLUE = '#EEF4FB';
