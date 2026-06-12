@@ -5,7 +5,7 @@
       "observationAccessibilityLabel": "{{ parameter }} observation as a graph",
       "forecastAccessibilityHint": "The same data is presented in an accessible format in the Table view",
       "observationAccessibilityHint": "The same data is presented in an accessible format in the List view",
-      "cloud": "Cloud base",
+      "cloud": "Cloud base example",
       "cloudAccessibilityLabel": "Open the cloud base graphic",
       "dewPoint": "Dew point",
       "humidity": "Humidity",
