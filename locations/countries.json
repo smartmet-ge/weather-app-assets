@@ -1,0 +1,1951 @@
+[
+  {
+    "id": "c8ddabc7-8bd8-4a96-afe1-853d2c1fdb7d",
+    "name": {
+      "primary": "Andorra",
+      "ka": "ანდორა",
+      "en": "Andorra"
+    },
+    "country": "AD"
+  },
+  {
+    "id": "1ee938e9-ab5c-4a25-afca-a4e87ce721d4",
+    "name": {
+      "primary": "الإمارات العربية المتحدة",
+      "ka": "არაბთა გაერთიანებული საამიროები",
+      "en": "United Arab Emirates"
+    },
+    "country": "AE"
+  },
+  {
+    "id": "9c99b2fd-76c4-4f41-8460-6e80cc8c48e7",
+    "name": {
+      "primary": "افغانستان",
+      "ka": "ავღანეთი",
+      "en": "Afghanistan"
+    },
+    "country": "AF"
+  },
+  {
+    "id": "483c0c25-bec0-475b-94b2-0eceb39c58f7",
+    "name": {
+      "primary": "Antigua and Barbuda",
+      "ka": "ანტიგუა და ბარბუდა",
+      "en": "Antigua and Barbuda"
+    },
+    "country": "AG"
+  },
+  {
+    "id": "6409d01d-8474-4633-95cc-17f7c2c30798",
+    "name": {
+      "primary": "Shqipëria",
+      "ka": "ალბანეთი",
+      "en": "Albania"
+    },
+    "country": "AL"
+  },
+  {
+    "id": "c987849d-0d01-42cf-b2da-fc29c65fcc9b",
+    "name": {
+      "primary": "Հայաստան",
+      "ka": "სომხეთი",
+      "en": "Armenia"
+    },
+    "country": "AM"
+  },
+  {
+    "id": "1276fb9a-4ec3-4b74-a7a3-97ce3ff5fd57",
+    "name": {
+      "primary": "Angola",
+      "ka": "ანგოლა",
+      "en": "Angola"
+    },
+    "country": "AO"
+  },
+  {
+    "id": "2ba5ad8b-6784-4088-87bb-50c14f2cbdc0",
+    "name": {
+      "primary": "Antarctica",
+      "ka": "ანტარქტიდა",
+      "en": "Antarctica"
+    },
+    "country": "AQ"
+  },
+  {
+    "id": "384a4265-38c3-44d1-b616-689e2bc77d9a",
+    "name": {
+      "primary": "Argentina",
+      "ka": "არგენტინა",
+      "en": "Argentina"
+    },
+    "country": "AR"
+  },
+  {
+    "id": "ddfa4a50-340b-4432-abe4-215c72e6ebca",
+    "name": {
+      "primary": "Österreich",
+      "ka": "ავსტრია",
+      "en": "Austria"
+    },
+    "country": "AT"
+  },
+  {
+    "id": "0ca3bee0-1166-43e1-a82d-f49e41127170",
+    "name": {
+      "primary": "Australia",
+      "ka": "ავსტრალია",
+      "en": "Australia"
+    },
+    "country": "AU"
+  },
+  {
+    "id": "827d1842-72b3-470a-8bf0-68c2002c2a83",
+    "name": {
+      "primary": "Azərbaycan",
+      "ka": "აზერბაიჯანი",
+      "en": "Azerbaijan"
+    },
+    "country": "AZ"
+  },
+  {
+    "id": "c1120952-ab47-4385-afb2-5ad703e27464",
+    "name": {
+      "primary": "Bosna i Hercegovina / Босна и Херцеговина",
+      "ka": "ბოსნია და ჰერცეგოვინა",
+      "en": "Bosnia and Herzegovina"
+    },
+    "country": "BA"
+  },
+  {
+    "id": "6975aec9-e4a1-4eeb-b3d4-762e4d7ddb41",
+    "name": {
+      "primary": "Barbados",
+      "ka": "ბარბადოსი",
+      "en": "Barbados"
+    },
+    "country": "BB"
+  },
+  {
+    "id": "50d252ed-bfb9-414f-9ff2-b0ddd1b514b5",
+    "name": {
+      "primary": "বাংলাদেশ",
+      "ka": "ბანგლადეში",
+      "en": "Bangladesh"
+    },
+    "country": "BD"
+  },
+  {
+    "id": "3b17bdf3-f498-4c72-a5ff-8b281a9ee37d",
+    "name": {
+      "primary": "België / Belgique / Belgien",
+      "ka": "ბელგია",
+      "en": "Belgium"
+    },
+    "country": "BE"
+  },
+  {
+    "id": "55f95f1c-883a-4efb-b43a-142eabca14d7",
+    "name": {
+      "primary": "Burkina Faso",
+      "ka": "ბურკინა-ფასო",
+      "en": "Burkina Faso"
+    },
+    "country": "BF"
+  },
+  {
+    "id": "3c7b9605-a79d-44d6-b2db-9014dc53f297",
+    "name": {
+      "primary": "България",
+      "ka": "ბულგარეთი",
+      "en": "Bulgaria"
+    },
+    "country": "BG"
+  },
+  {
+    "id": "25529563-514b-4c58-affa-0f7a6212385b",
+    "name": {
+      "primary": "البحرين",
+      "ka": "ბაჰრეინი",
+      "en": "Bahrain"
+    },
+    "country": "BH"
+  },
+  {
+    "id": "83ab52a5-6c35-4c9d-a64a-e0713a39634f",
+    "name": {
+      "primary": "Burundi",
+      "ka": "ბურუნდი",
+      "en": "Burundi"
+    },
+    "country": "BI"
+  },
+  {
+    "id": "4b6398a5-21d4-490a-9985-ac2bbdb96286",
+    "name": {
+      "primary": "Bénin",
+      "ka": "ბენინი",
+      "en": "Benin"
+    },
+    "country": "BJ"
+  },
+  {
+    "id": "13920282-51ea-4366-917f-9558e16e739c",
+    "name": {
+      "primary": "Brunei بروني",
+      "ka": "ბრუნეი",
+      "en": "Brunei"
+    },
+    "country": "BN"
+  },
+  {
+    "id": "10a1ae55-ddb4-47c2-b7da-951e93f27b5a",
+    "name": {
+      "primary": "Bolivia",
+      "ka": "ბოლივია",
+      "en": "Bolivia"
+    },
+    "country": "BO"
+  },
+  {
+    "id": "6dd0e3d7-b16a-4d38-bffd-9f7e17627b40",
+    "name": {
+      "primary": "Brasil",
+      "ka": "ბრაზილია",
+      "en": "Brazil"
+    },
+    "country": "BR"
+  },
+  {
+    "id": "3f22c9de-8b84-40b0-a39e-8a482cb15921",
+    "name": {
+      "primary": "The Bahamas",
+      "ka": "ბაჰამის კუნძულები",
+      "en": "Bahamas"
+    },
+    "country": "BS"
+  },
+  {
+    "id": "e9578cf1-1cfd-43c9-bcd4-a7d934e39319",
+    "name": {
+      "primary": "འབྲུག་ཡུལ།",
+      "ka": "ბჰუტანი",
+      "en": "Bhutan"
+    },
+    "country": "BT"
+  },
+  {
+    "id": "4a78abec-6933-45af-ac57-5f9109b53dc2",
+    "name": {
+      "primary": "Botswana",
+      "ka": "ბოტსვანა",
+      "en": "Botswana"
+    },
+    "country": "BW"
+  },
+  {
+    "id": "b4060ffb-0923-4966-bdbe-42a948d2b2ee",
+    "name": {
+      "primary": "Беларусь",
+      "ka": "ბელარუსი",
+      "en": "Belarus"
+    },
+    "country": "BY"
+  },
+  {
+    "id": "2a0a3177-4e3d-4a66-a852-4d64467e3c54",
+    "name": {
+      "primary": "Belize",
+      "ka": "ბელიზი",
+      "en": "Belize"
+    },
+    "country": "BZ"
+  },
+  {
+    "id": "d5654a87-5adf-42b3-9ff7-c656797a1776",
+    "name": {
+      "primary": "Canada",
+      "ka": "კანადა",
+      "en": "Canada"
+    },
+    "country": "CA"
+  },
+  {
+    "id": "63015fdd-9139-467e-8597-0671c1a8bf84",
+    "name": {
+      "primary": "République démocratique du Congo",
+      "ka": "კონგოს დემოკრატიული რესპუბლიკა",
+      "en": "Democratic Republic of the Congo"
+    },
+    "country": "CD"
+  },
+  {
+    "id": "816d2258-6ced-452b-a1df-e9de5b5057a2",
+    "name": {
+      "primary": "Ködörösêse tî Bêafrîka / République centrafricaine",
+      "ka": "ცენტრალური აფრიკის რესპუბლიკა",
+      "en": "Central African Republic"
+    },
+    "country": "CF"
+  },
+  {
+    "id": "d6265beb-7446-4e39-bba6-72603355c2de",
+    "name": {
+      "primary": "Congo",
+      "ka": "კონგოს რესპუბლიკა",
+      "en": "Republic of the Congo"
+    },
+    "country": "CG"
+  },
+  {
+    "id": "b9aa06a1-b832-451f-bcf2-051719e749dd",
+    "name": {
+      "primary": "Schweiz/Suisse/Svizzera/Svizra",
+      "ka": "შვეიცარია",
+      "en": "Switzerland"
+    },
+    "country": "CH"
+  },
+  {
+    "id": "7f23502c-daed-4482-839c-83ff6627a770",
+    "name": {
+      "primary": "Côte d’Ivoire",
+      "ka": "კოტ-დ’ივუარი",
+      "en": "Ivory Coast"
+    },
+    "country": "CI"
+  },
+  {
+    "id": "2d446e66-eb0d-4fb5-9df3-d0652f6a1e42",
+    "name": {
+      "primary": "Chile",
+      "ka": "ჩილე",
+      "en": "Chile"
+    },
+    "country": "CL"
+  },
+  {
+    "id": "922496b4-e2c9-4ec7-bf5d-86c67b75c661",
+    "name": {
+      "primary": "Cameroun",
+      "ka": "კამერუნი",
+      "en": "Cameroon"
+    },
+    "country": "CM"
+  },
+  {
+    "id": "fb68fc73-3ac6-41c9-a692-22fcf20cb5be",
+    "name": {
+      "primary": "中国",
+      "ka": "ჩინეთი",
+      "en": "China"
+    },
+    "country": "CN"
+  },
+  {
+    "id": "c7545d7e-b711-4ec3-aae9-6b41a386923c",
+    "name": {
+      "primary": "Colombia",
+      "ka": "კოლუმბია",
+      "en": "Colombia"
+    },
+    "country": "CO"
+  },
+  {
+    "id": "b0320a6a-99df-49f9-964e-af5c23d82f51",
+    "name": {
+      "primary": "Costa Rica",
+      "ka": "კოსტა-რიკა",
+      "en": "Costa Rica"
+    },
+    "country": "CR"
+  },
+  {
+    "id": "0fe7d82b-8cef-423b-be1b-b6205030ee6a",
+    "name": {
+      "primary": "Cuba",
+      "ka": "კუბა",
+      "en": "Cuba"
+    },
+    "country": "CU"
+  },
+  {
+    "id": "24305e21-b192-432c-8c49-16122da49f53",
+    "name": {
+      "primary": "Cabo Verde",
+      "ka": "კაბო-ვერდე",
+      "en": "Cape Verde"
+    },
+    "country": "CV"
+  },
+  {
+    "id": "8d41f9ea-39ea-478e-a882-4c3e4ca8d8a4",
+    "name": {
+      "primary": "Κύπρος - Kıbrıs",
+      "ka": "კვიპროსი",
+      "en": "Cyprus"
+    },
+    "country": "CY"
+  },
+  {
+    "id": "c168e1f7-0cd7-42f2-9ae9-77932106476d",
+    "name": {
+      "primary": "Česko",
+      "ka": "ჩეხეთი",
+      "en": "Czechia"
+    },
+    "country": "CZ"
+  },
+  {
+    "id": "567d1698-7209-4b94-b7b8-0bc71bde0104",
+    "name": {
+      "primary": "Deutschland",
+      "ka": "გერმანია",
+      "en": "Germany"
+    },
+    "country": "DE"
+  },
+  {
+    "id": "a476d8ac-c8d3-4ae3-a38c-ec8c97c5953c",
+    "name": {
+      "primary": "Djibouti جيبوتي",
+      "ka": "ჯიბუტი",
+      "en": "Djibouti"
+    },
+    "country": "DJ"
+  },
+  {
+    "id": "443c66c5-ab9d-4b7a-9223-e5b0811a21b1",
+    "name": {
+      "primary": "Danmark",
+      "ka": "დანია",
+      "en": "Denmark"
+    },
+    "country": "DK"
+  },
+  {
+    "id": "e824754c-b5e8-441c-93dd-4eb88da4f2d0",
+    "name": {
+      "primary": "Dominica",
+      "ka": "დომინიკა",
+      "en": "Dominica"
+    },
+    "country": "DM"
+  },
+  {
+    "id": "bbd49694-b20e-4be9-ae71-b4dea67d7bf0",
+    "name": {
+      "primary": "República Dominicana",
+      "ka": "დომინიკელთა რესპუბლიკა",
+      "en": "Dominican Republic"
+    },
+    "country": "DO"
+  },
+  {
+    "id": "b51e761d-a756-4608-81ae-b562f90be9f4",
+    "name": {
+      "primary": "ⵍⵣⵣⴰⵢⴻⵔ الجزائر",
+      "ka": "ალჟირი",
+      "en": "Algeria"
+    },
+    "country": "DZ"
+  },
+  {
+    "id": "577750a0-cfee-454d-996c-dd5867f185ee",
+    "name": {
+      "primary": "Ecuador",
+      "ka": "ეკვადორი",
+      "en": "Ecuador"
+    },
+    "country": "EC"
+  },
+  {
+    "id": "948cfb4d-18d0-4340-bd0d-6b52f65716b4",
+    "name": {
+      "primary": "Eesti",
+      "ka": "ესტონეთი",
+      "en": "Estonia"
+    },
+    "country": "EE"
+  },
+  {
+    "id": "1f67a0a2-4291-43ec-9395-76f3bc95e1b3",
+    "name": {
+      "primary": "مصر",
+      "ka": "ეგვიპტე",
+      "en": "Egypt"
+    },
+    "country": "EG"
+  },
+  {
+    "id": "bd30ee08-8085-4195-a6f7-4d3f0b107b4b",
+    "name": {
+      "primary": "ኤርትራ Eritrea إرتريا",
+      "ka": "ერიტრეა",
+      "en": "Eritrea"
+    },
+    "country": "ER"
+  },
+  {
+    "id": "a1848d2c-d37f-4009-9410-e13a97d9e6ae",
+    "name": {
+      "primary": "España",
+      "ka": "ესპანეთი",
+      "en": "Spain"
+    },
+    "country": "ES"
+  },
+  {
+    "id": "9a5b49e8-ab53-4f46-945c-d580303e1551",
+    "name": {
+      "primary": "ኢትዮጵያ",
+      "ka": "ეთიოპია",
+      "en": "Ethiopia"
+    },
+    "country": "ET"
+  },
+  {
+    "id": "f768eb0c-a2a9-47d3-8ce3-99a522ca6d82",
+    "name": {
+      "primary": "Suomi / Finland",
+      "ka": "ფინეთი",
+      "en": "Finland"
+    },
+    "country": "FI"
+  },
+  {
+    "id": "c71a638a-7a36-418d-9409-6f47be40ba09",
+    "name": {
+      "primary": "Viti",
+      "ka": "ფიჯი",
+      "en": "Fiji"
+    },
+    "country": "FJ"
+  },
+  {
+    "id": "9ff8a07d-4ea0-4e15-837a-0a9cc8f1df6e",
+    "name": {
+      "primary": "Micronesia",
+      "ka": "მიკრონეზიის ფედერაციული შტატები",
+      "en": "Federated States of Micronesia"
+    },
+    "country": "FM"
+  },
+  {
+    "id": "6fc195b5-361b-487d-99a9-debff18b67c7",
+    "name": {
+      "primary": "France",
+      "ka": "საფრანგეთი",
+      "en": "France"
+    },
+    "country": "FR"
+  },
+  {
+    "id": "d6aa2afc-1582-43a3-98b6-6c1e2387d802",
+    "name": {
+      "primary": "Gabon",
+      "ka": "გაბონი",
+      "en": "Gabon"
+    },
+    "country": "GA"
+  },
+  {
+    "id": "ce3429b1-d5c6-4763-91e7-0107e26d613e",
+    "name": {
+      "primary": "United Kingdom",
+      "ka": "გაერთიანებული სამეფო",
+      "en": "United Kingdom"
+    },
+    "country": "GB"
+  },
+  {
+    "id": "59ed93f7-2572-4f0d-b8a1-2cf4b7bb112f",
+    "name": {
+      "primary": "Grenada",
+      "ka": "გრენადა",
+      "en": "Grenada"
+    },
+    "country": "GD"
+  },
+  {
+    "id": "8633e6c9-8435-4e4d-a925-adf491445f6f",
+    "name": {
+      "primary": "საქართველო",
+      "ka": "საქართველო",
+      "en": "Georgia"
+    },
+    "country": "GE"
+  },
+  {
+    "id": "540db43a-fe19-4d74-8900-1f416cab8f75",
+    "name": {
+      "primary": "Ghana",
+      "ka": "განა",
+      "en": "Ghana"
+    },
+    "country": "GH"
+  },
+  {
+    "id": "04b8a6ab-a5a1-45fe-a569-1d296454f583",
+    "name": {
+      "primary": "Gambia",
+      "ka": "გამბია",
+      "en": "The Gambia"
+    },
+    "country": "GM"
+  },
+  {
+    "id": "9769da35-8443-4c32-8ce7-f9e0f8b3437a",
+    "name": {
+      "primary": "Guinée",
+      "ka": "გვინეა",
+      "en": "Guinea"
+    },
+    "country": "GN"
+  },
+  {
+    "id": "487889c7-ab81-4a8a-a273-69b6d7c96c09",
+    "name": {
+      "primary": "Guinea Ecuatorial",
+      "ka": "ეკვატორული გვინეა",
+      "en": "Equatorial Guinea"
+    },
+    "country": "GQ"
+  },
+  {
+    "id": "94300abf-bb2c-4fa6-855c-d1d847d778ac",
+    "name": {
+      "primary": "Ελλάς",
+      "ka": "საბერძნეთი",
+      "en": "Greece"
+    },
+    "country": "GR"
+  },
+  {
+    "id": "388f9999-c6d4-476d-bcce-320c5080c811",
+    "name": {
+      "primary": "Guatemala",
+      "ka": "გვატემალა",
+      "en": "Guatemala"
+    },
+    "country": "GT"
+  },
+  {
+    "id": "b0ba5f09-1d33-4e26-b08d-efc4f9203618",
+    "name": {
+      "primary": "Guiné-Bissau",
+      "ka": "გვინეა-ბისაუ",
+      "en": "Guinea-Bissau"
+    },
+    "country": "GW"
+  },
+  {
+    "id": "c9649b8d-bfea-4869-9bc5-a84c2f913d4c",
+    "name": {
+      "primary": "Guyana",
+      "ka": "გაიანა",
+      "en": "Guyana"
+    },
+    "country": "GY"
+  },
+  {
+    "id": "5ad17f79-b6db-4596-9f0d-bae5d3dbc684",
+    "name": {
+      "primary": "Honduras",
+      "ka": "ჰონდურასი",
+      "en": "Honduras"
+    },
+    "country": "HN"
+  },
+  {
+    "id": "f73deb60-0560-48b5-a704-8739747c4ab5",
+    "name": {
+      "primary": "Hrvatska",
+      "ka": "ხორვატია",
+      "en": "Croatia"
+    },
+    "country": "HR"
+  },
+  {
+    "id": "a2881cfc-d758-4e09-812a-ab65c9439bac",
+    "name": {
+      "primary": "Ayiti",
+      "ka": "ჰაიტი",
+      "en": "Haiti"
+    },
+    "country": "HT"
+  },
+  {
+    "id": "4e483a9b-1217-4d03-a279-6576884012a4",
+    "name": {
+      "primary": "Magyarország",
+      "ka": "უნგრეთი",
+      "en": "Hungary"
+    },
+    "country": "HU"
+  },
+  {
+    "id": "b86e56ae-ee94-482c-952d-395d0caf97cf",
+    "name": {
+      "primary": "Indonesia",
+      "ka": "ინდონეზია",
+      "en": "Indonesia"
+    },
+    "country": "ID"
+  },
+  {
+    "id": "26eb817c-9361-444c-87f8-892d107b0c97",
+    "name": {
+      "primary": "Éire / Ireland",
+      "ka": "ირლანდია",
+      "en": "Ireland"
+    },
+    "country": "IE"
+  },
+  {
+    "id": "304c055c-1116-4844-8b3f-8a2da41d5c86",
+    "name": {
+      "primary": "ישראל",
+      "ka": "ისრაელი",
+      "en": "Israel"
+    },
+    "country": "IL"
+  },
+  {
+    "id": "c3edf10a-fe23-4c7e-a777-52199ac7df8e",
+    "name": {
+      "primary": "India",
+      "ka": "ინდოეთი",
+      "en": "India"
+    },
+    "country": "IN"
+  },
+  {
+    "id": "b6253d2b-8ccf-4f3c-bab9-11e9fc6e6d5c",
+    "name": {
+      "primary": "العراق",
+      "ka": "ერაყი",
+      "en": "Iraq"
+    },
+    "country": "IQ"
+  },
+  {
+    "id": "2a83db88-69ac-4a23-8af0-b4bddd988612",
+    "name": {
+      "primary": "ایران",
+      "ka": "ირანი",
+      "en": "Iran"
+    },
+    "country": "IR"
+  },
+  {
+    "id": "911c2bdf-e87d-4b11-9aa7-162dcf129c7c",
+    "name": {
+      "primary": "Ísland",
+      "ka": "ისლანდია",
+      "en": "Iceland"
+    },
+    "country": "IS"
+  },
+  {
+    "id": "ce63abf0-b955-4f29-b40a-20c569b53da4",
+    "name": {
+      "primary": "Italia",
+      "ka": "იტალია",
+      "en": "Italy"
+    },
+    "country": "IT"
+  },
+  {
+    "id": "a1c20041-1528-47f0-a560-adce9ca43e8c",
+    "name": {
+      "primary": "Jamaica",
+      "ka": "იამაიკა",
+      "en": "Jamaica"
+    },
+    "country": "JM"
+  },
+  {
+    "id": "8cac2de1-d406-4e15-93ae-20b9c721b5e8",
+    "name": {
+      "primary": "الأردن",
+      "ka": "იორდანია",
+      "en": "Jordan"
+    },
+    "country": "JO"
+  },
+  {
+    "id": "6956b2db-e5bc-4dd0-a39b-fe62c1709b62",
+    "name": {
+      "primary": "日本",
+      "ka": "იაპონია",
+      "en": "Japan"
+    },
+    "country": "JP"
+  },
+  {
+    "id": "c4cf04a5-c374-4943-84c9-2868fdb47fde",
+    "name": {
+      "primary": "Kenya",
+      "ka": "კენია",
+      "en": "Kenya"
+    },
+    "country": "KE"
+  },
+  {
+    "id": "09390dc5-7b5d-4629-b685-199db3b96520",
+    "name": {
+      "primary": "Кыргызстан",
+      "ka": "ყირგიზეთი",
+      "en": "Kyrgyzstan"
+    },
+    "country": "KG"
+  },
+  {
+    "id": "22775a03-7aa1-4648-a5f3-9167786b9488",
+    "name": {
+      "primary": "ព្រះរាជាណាចក្រ​កម្ពុជា",
+      "ka": "კამბოჯა",
+      "en": "Cambodia"
+    },
+    "country": "KH"
+  },
+  {
+    "id": "703cb787-3792-40b9-b823-1e2087194fe2",
+    "name": {
+      "primary": "Kiribati",
+      "ka": "კირიბატი",
+      "en": "Kiribati"
+    },
+    "country": "KI"
+  },
+  {
+    "id": "6e91cf86-f410-4c1e-a6df-a3696ba9463e",
+    "name": {
+      "primary": "Comores Komori جزر القمر",
+      "ka": "კომორის კუნძულების კავშირი",
+      "en": "Comoros"
+    },
+    "country": "KM"
+  },
+  {
+    "id": "6ee73cbf-2813-4a4e-bdef-9191f2cdbcb4",
+    "name": {
+      "primary": "Saint Kitts and Nevis",
+      "ka": "სენტ-კიტსი და ნევისი",
+      "en": "Saint Kitts and Nevis"
+    },
+    "country": "KN"
+  },
+  {
+    "id": "146be124-a2f6-4991-8368-9428379a4476",
+    "name": {
+      "primary": "조선민주주의인민공화국",
+      "ka": "კორეის სახალხო დემოკრატიული რესპუბლიკა",
+      "en": "North Korea"
+    },
+    "country": "KP"
+  },
+  {
+    "id": "69419ef1-bd58-4528-a597-332702995ba4",
+    "name": {
+      "primary": "대한민국",
+      "ka": "სამხრეთი კორეა",
+      "en": "South Korea"
+    },
+    "country": "KR"
+  },
+  {
+    "id": "1fd8b17b-04a4-40ec-ae6c-880216f4316a",
+    "name": {
+      "primary": "الكويت",
+      "ka": "ქუვეითი",
+      "en": "Kuwait"
+    },
+    "country": "KW"
+  },
+  {
+    "id": "d7a0b790-da5f-4853-951c-780f12e1131b",
+    "name": {
+      "primary": "Қазақстан",
+      "ka": "ყაზახეთი",
+      "en": "Kazakhstan"
+    },
+    "country": "KZ"
+  },
+  {
+    "id": "5f4743d2-31d1-4ce1-97fa-bd6ef9a0dfef",
+    "name": {
+      "primary": "ປະເທດລາວ",
+      "ka": "ლაოსი",
+      "en": "Laos"
+    },
+    "country": "LA"
+  },
+  {
+    "id": "7d5f5b35-9edd-46ed-a488-99c8b36fae1d",
+    "name": {
+      "primary": "لبنان",
+      "ka": "ლიბანი",
+      "en": "Lebanon"
+    },
+    "country": "LB"
+  },
+  {
+    "id": "19d7f561-141d-4c6e-b145-3e0251334784",
+    "name": {
+      "primary": "Saint Lucia",
+      "ka": "სენტ-ლუსია",
+      "en": "Saint Lucia"
+    },
+    "country": "LC"
+  },
+  {
+    "id": "a0214888-0987-4cad-94a9-a4833b1529e0",
+    "name": {
+      "primary": "Liechtenstein",
+      "en": "Liechtenstein"
+    },
+    "country": "LI"
+  },
+  {
+    "id": "c1dc5a8b-7b01-4f4a-9f8c-ee350141a620",
+    "name": {
+      "primary": "Sri Lanka",
+      "ka": "შრი-ლანკა",
+      "en": "Sri Lanka"
+    },
+    "country": "LK"
+  },
+  {
+    "id": "f9ffbc14-f2d7-466d-9e43-65ef326f8825",
+    "name": {
+      "primary": "Liberia",
+      "ka": "ლიბერია",
+      "en": "Liberia"
+    },
+    "country": "LR"
+  },
+  {
+    "id": "c330690e-de0e-47b7-a127-5cbedb66d465",
+    "name": {
+      "primary": "Lesotho",
+      "ka": "ლესოთო",
+      "en": "Lesotho"
+    },
+    "country": "LS"
+  },
+  {
+    "id": "28f9d46b-3910-46ad-93ee-076b69c1d4b1",
+    "name": {
+      "primary": "Lietuva",
+      "ka": "ლიეტუვა",
+      "en": "Lithuania"
+    },
+    "country": "LT"
+  },
+  {
+    "id": "4e4c6e15-5f5d-40ca-93ad-6f0931ed0cd9",
+    "name": {
+      "primary": "Lëtzebuerg",
+      "ka": "ლუქსემბურგი",
+      "en": "Luxembourg"
+    },
+    "country": "LU"
+  },
+  {
+    "id": "e737cba5-45cb-411d-bb26-390f949393f3",
+    "name": {
+      "primary": "Latvija",
+      "ka": "ლატვია",
+      "en": "Latvia"
+    },
+    "country": "LV"
+  },
+  {
+    "id": "b5b341b0-6d4d-4537-9f18-c38915e55cd2",
+    "name": {
+      "primary": "ليبيا",
+      "ka": "ლიბია",
+      "en": "Libya"
+    },
+    "country": "LY"
+  },
+  {
+    "id": "d5178a1a-316b-449c-8154-390a290451f5",
+    "name": {
+      "primary": "Maroc ⵍⵎⵖⵔⵉⴱ المغرب",
+      "ka": "მაროკო",
+      "en": "Morocco"
+    },
+    "country": "MA"
+  },
+  {
+    "id": "8c379db3-e741-4766-95c9-ee2a7d92d984",
+    "name": {
+      "primary": "Monaco",
+      "ka": "მონაკო",
+      "en": "Monaco"
+    },
+    "country": "MC"
+  },
+  {
+    "id": "ffd9f6f1-89ce-4deb-9641-bec038c54b06",
+    "name": {
+      "primary": "Moldova",
+      "ka": "მოლდოვა",
+      "en": "Moldova"
+    },
+    "country": "MD"
+  },
+  {
+    "id": "14fdba51-5ae6-45cd-8983-6c780cddb3ea",
+    "name": {
+      "primary": "Crna Gora / Црна Гора",
+      "ka": "მონტენეგრო",
+      "en": "Montenegro"
+    },
+    "country": "ME"
+  },
+  {
+    "id": "52aaf555-6f01-4444-8f47-307e37ffc8a8",
+    "name": {
+      "primary": "Saint-Martin",
+      "ka": "სენ-მარტენი",
+      "en": "Saint Martin"
+    },
+    "country": "MF"
+  },
+  {
+    "id": "0fdb7417-2dc7-4819-9a10-ffd8926bcd99",
+    "name": {
+      "primary": "Madagasikara / Madagascar",
+      "ka": "მადაგასკარი",
+      "en": "Madagascar"
+    },
+    "country": "MG"
+  },
+  {
+    "id": "23f6ca9f-614b-488f-b6dc-2dfe6dfdf26f",
+    "name": {
+      "primary": "Ṃajeḷ",
+      "ka": "მარშალის კუნძულები",
+      "en": "Marshall Islands"
+    },
+    "country": "MH"
+  },
+  {
+    "id": "6bd79663-1e03-468e-bf70-f9541e239419",
+    "name": {
+      "primary": "Северна Македонија",
+      "ka": "ჩრდილოეთ მაკედონია",
+      "en": "North Macedonia"
+    },
+    "country": "MK"
+  },
+  {
+    "id": "4d81e101-5ed5-4e4d-b3a1-0878f70f254b",
+    "name": {
+      "primary": "Mali",
+      "ka": "მალი",
+      "en": "Mali"
+    },
+    "country": "ML"
+  },
+  {
+    "id": "e0edb43b-7021-4c72-926e-b5955658c75c",
+    "name": {
+      "primary": "မြန်မာ",
+      "ka": "მიანმარი",
+      "en": "Myanmar"
+    },
+    "country": "MM"
+  },
+  {
+    "id": "f9f08704-08fa-463e-89b9-b634fbe8f55b",
+    "name": {
+      "primary": "Монгол улс ᠮᠤᠩᠭᠤᠯ ᠤᠯᠤᠰ",
+      "ka": "მონღოლეთი",
+      "en": "Mongolia"
+    },
+    "country": "MN"
+  },
+  {
+    "id": "2fd6dc3b-cdbb-4562-8115-1e87597a8b6c",
+    "name": {
+      "primary": "Mauritanie موريتانيا",
+      "ka": "მავრიტანია",
+      "en": "Mauritania"
+    },
+    "country": "MR"
+  },
+  {
+    "id": "e1974350-8bc7-4769-9bf6-4291b7b196b8",
+    "name": {
+      "primary": "Malta",
+      "ka": "მალტა",
+      "en": "Malta"
+    },
+    "country": "MT"
+  },
+  {
+    "id": "a55b8fbd-d2f1-4f4f-ae1d-018c41c0aacc",
+    "name": {
+      "primary": "Mauritius / Maurice",
+      "ka": "მავრიკი",
+      "en": "Mauritius"
+    },
+    "country": "MU"
+  },
+  {
+    "id": "d0317ac9-82c7-4e1a-a3fc-8b7562b1690d",
+    "name": {
+      "primary": "ދިވެހިރާއްޖެ",
+      "ka": "მალდივის კუნძულები",
+      "en": "Maldives"
+    },
+    "country": "MV"
+  },
+  {
+    "id": "4411cff8-83a3-4def-bb27-1a8b88340ff0",
+    "name": {
+      "primary": "Malawi",
+      "ka": "მალავი",
+      "en": "Malawi"
+    },
+    "country": "MW"
+  },
+  {
+    "id": "fc20aaf8-7a12-4cb2-9b0b-ebb1a4b652aa",
+    "name": {
+      "primary": "México",
+      "ka": "მექსიკა",
+      "en": "Mexico"
+    },
+    "country": "MX"
+  },
+  {
+    "id": "14e4ae39-84ce-4838-a219-4c9fa381e1c3",
+    "name": {
+      "primary": "Malaysia",
+      "ka": "მალაიზია",
+      "en": "Malaysia"
+    },
+    "country": "MY"
+  },
+  {
+    "id": "0eaa295d-ea26-4860-8751-af41d3c75748",
+    "name": {
+      "primary": "Moçambique",
+      "ka": "მოზამბიკი",
+      "en": "Mozambique"
+    },
+    "country": "MZ"
+  },
+  {
+    "id": "feef3e6a-c35d-4fd7-9b28-20d2dd1f77b0",
+    "name": {
+      "primary": "Namibia",
+      "ka": "ნამიბია",
+      "en": "Namibia"
+    },
+    "country": "NA"
+  },
+  {
+    "id": "65083e91-6fb6-4165-b000-350bb6fdf1c6",
+    "name": {
+      "primary": "Niger",
+      "ka": "ნიგერი",
+      "en": "Niger"
+    },
+    "country": "NE"
+  },
+  {
+    "id": "3264d7ab-fdb5-4956-ad97-6307200c9e0a",
+    "name": {
+      "primary": "Nigeria",
+      "ka": "ნიგერია",
+      "en": "Nigeria"
+    },
+    "country": "NG"
+  },
+  {
+    "id": "1b152fd1-e23c-497e-befe-b3c1e8644ed5",
+    "name": {
+      "primary": "Nicaragua",
+      "ka": "ნიკარაგუა",
+      "en": "Nicaragua"
+    },
+    "country": "NI"
+  },
+  {
+    "id": "08dcf896-627e-46e8-9439-3d905390b7c3",
+    "name": {
+      "primary": "Nederland",
+      "ka": "ნიდერლანდი",
+      "en": "Netherlands"
+    },
+    "country": "NL"
+  },
+  {
+    "id": "7dc338b3-52c8-4707-8e36-17ae035a64dd",
+    "name": {
+      "primary": "Norge",
+      "ka": "ნორვეგია",
+      "en": "Norway"
+    },
+    "country": "NO"
+  },
+  {
+    "id": "05661c9d-68f5-4a26-a653-05f6ef959b50",
+    "name": {
+      "primary": "नेपाल",
+      "ka": "ნეპალი",
+      "en": "Nepal"
+    },
+    "country": "NP"
+  },
+  {
+    "id": "bb70973d-8d10-4d27-8882-d8420cec669d",
+    "name": {
+      "primary": "Naoero",
+      "ka": "ნაურუ",
+      "en": "Nauru"
+    },
+    "country": "NR"
+  },
+  {
+    "id": "89e73df8-d5ab-4156-9e83-140d1ee694c5",
+    "name": {
+      "primary": "New Zealand",
+      "ka": "ახალი ზელანდია",
+      "en": "New Zealand"
+    },
+    "country": "NZ"
+  },
+  {
+    "id": "9a6dd1e2-e8d2-47ce-bb8d-02735f0df319",
+    "name": {
+      "primary": "عمان",
+      "ka": "ომანი",
+      "en": "Oman"
+    },
+    "country": "OM"
+  },
+  {
+    "id": "7c9cb2bf-59df-4dd5-ba47-808f2e980d64",
+    "name": {
+      "primary": "Panamá",
+      "ka": "პანამა",
+      "en": "Panama"
+    },
+    "country": "PA"
+  },
+  {
+    "id": "449b9525-0be3-4a9a-bf19-d65f07f7e81e",
+    "name": {
+      "primary": "Perú",
+      "ka": "პერუ",
+      "en": "Peru"
+    },
+    "country": "PE"
+  },
+  {
+    "id": "bcb071fa-c8aa-4b60-a008-3d9ff4077b67",
+    "name": {
+      "primary": "Papua Niugini",
+      "ka": "პაპუა-ახალი გვინეა",
+      "en": "Papua New Guinea"
+    },
+    "country": "PG"
+  },
+  {
+    "id": "25bf04ea-1031-4f29-b459-cfc57adfc814",
+    "name": {
+      "primary": "Philippines",
+      "ka": "ფილიპინები",
+      "en": "Philippines"
+    },
+    "country": "PH"
+  },
+  {
+    "id": "b952fd95-5a2e-45b9-b30c-9e83b2fd3025",
+    "name": {
+      "primary": "پاکستان",
+      "ka": "პაკისტანი",
+      "en": "Pakistan"
+    },
+    "country": "PK"
+  },
+  {
+    "id": "80d64bfe-3b7e-4d50-8fc6-79decdb8d101",
+    "name": {
+      "primary": "Polska",
+      "ka": "პოლონეთი",
+      "en": "Poland"
+    },
+    "country": "PL"
+  },
+  {
+    "id": "ae51c810-75b9-4be9-87d2-65238a469505",
+    "name": {
+      "primary": "Portugal",
+      "ka": "პორტუგალია",
+      "en": "Portugal"
+    },
+    "country": "PT"
+  },
+  {
+    "id": "f6c79ce6-607e-4d7f-98aa-1cadbb5188aa",
+    "name": {
+      "primary": "Belau",
+      "en": "Palau"
+    },
+    "country": "PW"
+  },
+  {
+    "id": "9f4e579f-a6d1-4f33-81dd-f50008b5263a",
+    "name": {
+      "primary": "Paraguay / Paraguái",
+      "ka": "პარაგვაი",
+      "en": "Paraguay"
+    },
+    "country": "PY"
+  },
+  {
+    "id": "ac2141f0-368f-41a6-920d-4b893aebe5b0",
+    "name": {
+      "primary": "قطر",
+      "ka": "კატარი",
+      "en": "Qatar"
+    },
+    "country": "QA"
+  },
+  {
+    "id": "aa5b01a9-4943-41ec-9d1a-3f6c6cd39594",
+    "name": {
+      "primary": "România",
+      "ka": "რუმინეთი",
+      "en": "Romania"
+    },
+    "country": "RO"
+  },
+  {
+    "id": "9e3b1d8c-933c-4a13-b99e-a1bc166f35c1",
+    "name": {
+      "primary": "Србија",
+      "ka": "სერბეთი",
+      "en": "Serbia"
+    },
+    "country": "RS"
+  },
+  {
+    "id": "604e4d47-073c-46f8-86a5-2a8838509986",
+    "name": {
+      "primary": "Россия",
+      "ka": "რუსეთი",
+      "en": "Russia"
+    },
+    "country": "RU"
+  },
+  {
+    "id": "1c86458e-29a3-447e-9072-9d626b6f5ff1",
+    "name": {
+      "primary": "Rwanda",
+      "ka": "რუანდა",
+      "en": "Rwanda"
+    },
+    "country": "RW"
+  },
+  {
+    "id": "7a7b4236-aa79-43a2-846d-0b8f1f4f6c28",
+    "name": {
+      "primary": "السعودية",
+      "ka": "საუდის არაბეთი",
+      "en": "Saudi Arabia"
+    },
+    "country": "SA"
+  },
+  {
+    "id": "289baef4-417b-4552-a259-02be8af6edbf",
+    "name": {
+      "primary": "Solomon Islands",
+      "ka": "სოლომონის კუნძულები",
+      "en": "Solomon Islands"
+    },
+    "country": "SB"
+  },
+  {
+    "id": "bdd591d9-cce9-42b8-b9ea-abe97f0cc00d",
+    "name": {
+      "primary": "Sesel",
+      "ka": "სეიშელის კუნძულები",
+      "en": "Seychelles"
+    },
+    "country": "SC"
+  },
+  {
+    "id": "dcb936d9-7dd4-479e-a80c-aeeca9e565ca",
+    "name": {
+      "primary": "السودان",
+      "ka": "სუდანი",
+      "en": "Sudan"
+    },
+    "country": "SD"
+  },
+  {
+    "id": "1187cf1f-7e17-4a4c-8eb7-c6d796f98fc1",
+    "name": {
+      "primary": "Sverige",
+      "ka": "შვედეთი",
+      "en": "Sweden"
+    },
+    "country": "SE"
+  },
+  {
+    "id": "a07c1a9f-48a2-4331-a662-29074182da31",
+    "name": {
+      "primary": "Singapore",
+      "ka": "სინგაპური",
+      "en": "Singapore"
+    },
+    "country": "SG"
+  },
+  {
+    "id": "e9e6d91f-4d6f-4872-a15e-391a963c90e1",
+    "name": {
+      "primary": "Slovenija",
+      "ka": "სლოვენია",
+      "en": "Slovenia"
+    },
+    "country": "SI"
+  },
+  {
+    "id": "484850bb-5eaa-4b61-9e74-908f2a11628a",
+    "name": {
+      "primary": "Slovensko",
+      "ka": "სლოვაკეთი",
+      "en": "Slovakia"
+    },
+    "country": "SK"
+  },
+  {
+    "id": "64efc183-ea96-44e3-8efe-2f929dd48046",
+    "name": {
+      "primary": "Sierra Leone",
+      "ka": "სიერა-ლეონე",
+      "en": "Sierra Leone"
+    },
+    "country": "SL"
+  },
+  {
+    "id": "b25f1541-0e46-45fe-81a0-25432ef4a86a",
+    "name": {
+      "primary": "San Marino",
+      "ka": "სან-მარინო",
+      "en": "San Marino"
+    },
+    "country": "SM"
+  },
+  {
+    "id": "4c36594e-6bae-489f-9880-4509a5568342",
+    "name": {
+      "primary": "Sénégal",
+      "ka": "სენეგალი",
+      "en": "Senegal"
+    },
+    "country": "SN"
+  },
+  {
+    "id": "2d668bd6-75a8-4db0-be56-24568fb042a1",
+    "name": {
+      "primary": "Soomaaliya الصومال",
+      "ka": "სომალი",
+      "en": "Somalia"
+    },
+    "country": "SO"
+  },
+  {
+    "id": "f035c40b-0e23-445c-9abd-22219bbf1c53",
+    "name": {
+      "primary": "Suriname",
+      "ka": "სურინამი",
+      "en": "Suriname"
+    },
+    "country": "SR"
+  },
+  {
+    "id": "c732fd4a-969e-4038-88f7-80afbb96cdab",
+    "name": {
+      "primary": "South Sudan جنوب السودان",
+      "ka": "სამხრეთი სუდანი",
+      "en": "South Sudan"
+    },
+    "country": "SS"
+  },
+  {
+    "id": "5bb3b799-21de-43ea-9e68-1adf85ddb9f8",
+    "name": {
+      "primary": "São Tomé e Príncipe",
+      "ka": "საო-ტომე და პრინსიპი",
+      "en": "São Tomé and Príncipe"
+    },
+    "country": "ST"
+  },
+  {
+    "id": "adfa9189-2e5b-4d7e-9229-fda26e64f44c",
+    "name": {
+      "primary": "El Salvador",
+      "ka": "სალვადორი",
+      "en": "El Salvador"
+    },
+    "country": "SV"
+  },
+  {
+    "id": "14d255d0-f55d-458b-8f31-5f99a9ee4d5a",
+    "name": {
+      "primary": "Sint Maarten",
+      "en": "Sint Maarten"
+    },
+    "country": "SX"
+  },
+  {
+    "id": "96b69dac-6b0b-4df7-8595-da1cbca21ab9",
+    "name": {
+      "primary": "سوريا",
+      "ka": "სირია",
+      "en": "Syria"
+    },
+    "country": "SY"
+  },
+  {
+    "id": "18f3b79e-a648-4fc2-bceb-9308b022e592",
+    "name": {
+      "primary": "Eswatini",
+      "ka": "ესვატინი",
+      "en": "Eswatini"
+    },
+    "country": "SZ"
+  },
+  {
+    "id": "4b39fda1-0f7d-4548-b62c-71216ca16cdf",
+    "name": {
+      "primary": "Tchad تشاد",
+      "ka": "ჩადი",
+      "en": "Chad"
+    },
+    "country": "TD"
+  },
+  {
+    "id": "1d9869a5-eb06-46f4-a6cf-871b8d780065",
+    "name": {
+      "primary": "Togo",
+      "ka": "ტოგო",
+      "en": "Togo"
+    },
+    "country": "TG"
+  },
+  {
+    "id": "dcbafa0d-6c38-47d0-8ffd-0eed94ba1061",
+    "name": {
+      "primary": "ประเทศไทย",
+      "ka": "ტაილანდი",
+      "en": "Thailand"
+    },
+    "country": "TH"
+  },
+  {
+    "id": "a0e7ce6b-38bd-4cab-a8fb-cc445c8acdd2",
+    "name": {
+      "primary": "Тоҷикистон",
+      "ka": "ტაჯიკეთი",
+      "en": "Tajikistan"
+    },
+    "country": "TJ"
+  },
+  {
+    "id": "8325d071-354f-4d2e-b779-04c2f1c7b7cd",
+    "name": {
+      "primary": "Timor-Leste",
+      "ka": "აღმოსავლეთი ტიმორი",
+      "en": "East Timor"
+    },
+    "country": "TL"
+  },
+  {
+    "id": "f28876f3-ba32-49be-8b19-d4530e13646d",
+    "name": {
+      "primary": "Türkmenistan",
+      "ka": "თურქმენეთი",
+      "en": "Turkmenistan"
+    },
+    "country": "TM"
+  },
+  {
+    "id": "006a49e8-ea13-49f7-af64-8ba7d7851649",
+    "name": {
+      "primary": "تونس",
+      "ka": "ტუნისი",
+      "en": "Tunisia"
+    },
+    "country": "TN"
+  },
+  {
+    "id": "fef8748b-0c91-46ad-9f2d-976d8d2de3e9",
+    "name": {
+      "primary": "Tonga",
+      "ka": "ტონგა",
+      "en": "Tonga"
+    },
+    "country": "TO"
+  },
+  {
+    "id": "8c596c33-9947-4fee-94ce-ad12848d61e5",
+    "name": {
+      "primary": "Türkiye",
+      "ka": "თურქეთი",
+      "en": "Turkey"
+    },
+    "country": "TR"
+  },
+  {
+    "id": "5ac18bbb-9f14-4cf3-a507-f2fb610c8856",
+    "name": {
+      "primary": "Trinidad and Tobago",
+      "ka": "ტრინიდადი და ტობაგო",
+      "en": "Trinidad and Tobago"
+    },
+    "country": "TT"
+  },
+  {
+    "id": "90a28439-aa87-4241-8bce-fe40a1680b52",
+    "name": {
+      "primary": "Tuvalu",
+      "ka": "ტუვალუ",
+      "en": "Tuvalu"
+    },
+    "country": "TV"
+  },
+  {
+    "id": "b0a31070-27f2-4949-ae87-87e730237575",
+    "name": {
+      "primary": "臺灣",
+      "ka": "ტაივანი",
+      "en": "Taiwan"
+    },
+    "country": "TW"
+  },
+  {
+    "id": "864b6b53-f951-418d-8d89-7a3902c03f84",
+    "name": {
+      "primary": "Tanzania",
+      "ka": "ტანზანია",
+      "en": "Tanzania"
+    },
+    "country": "TZ"
+  },
+  {
+    "id": "7f6380cd-2f97-4b3e-98a3-8392f9eb9f1a",
+    "name": {
+      "primary": "Україна",
+      "ka": "უკრაინა",
+      "en": "Ukraine"
+    },
+    "country": "UA"
+  },
+  {
+    "id": "051da74f-6039-42fb-943f-3774707222d8",
+    "name": {
+      "primary": "Uganda",
+      "ka": "უგანდა",
+      "en": "Uganda"
+    },
+    "country": "UG"
+  },
+  {
+    "id": "f39eb4af-5206-481b-b19e-bd784ded3f05",
+    "name": {
+      "primary": "United States",
+      "ka": "ამერიკის შეერთებული შტატები",
+      "en": "United States"
+    },
+    "country": "US"
+  },
+  {
+    "id": "8274404c-03ab-41c9-8886-a83fe3925f03",
+    "name": {
+      "primary": "Uruguay",
+      "ka": "ურუგვაი",
+      "en": "Uruguay"
+    },
+    "country": "UY"
+  },
+  {
+    "id": "490c04b8-594b-429b-ab90-e8be717a51af",
+    "name": {
+      "primary": "Oʻzbekiston",
+      "ka": "უზბეკეთი",
+      "en": "Uzbekistan"
+    },
+    "country": "UZ"
+  },
+  {
+    "id": "50127dcb-ba6f-4a46-a158-674e2d77b719",
+    "name": {
+      "primary": "Civitas Vaticana - Città del Vaticano",
+      "ka": "ვატიკანი",
+      "en": "Vatican City"
+    },
+    "country": "VA"
+  },
+  {
+    "id": "97ef5926-572e-4116-985a-92b11e070b4b",
+    "name": {
+      "primary": "Saint Vincent and the Grenadines",
+      "ka": "სენტ-ვინსენტი და გრენადინები",
+      "en": "Saint Vincent and the Grenadines"
+    },
+    "country": "VC"
+  },
+  {
+    "id": "3fdaa54c-3548-4c65-b99b-59214ebe4d22",
+    "name": {
+      "primary": "Venezuela",
+      "ka": "ვენესუელა",
+      "en": "Venezuela"
+    },
+    "country": "VE"
+  },
+  {
+    "id": "4d3bdd09-c750-4cb5-8330-920f89eee5c9",
+    "name": {
+      "primary": "Việt Nam",
+      "ka": "ვიეტნამი",
+      "en": "Vietnam"
+    },
+    "country": "VN"
+  },
+  {
+    "id": "7df07e3e-b552-48b6-a465-25ec46430fcf",
+    "name": {
+      "primary": "Vanuatu",
+      "ka": "ვანუატუ",
+      "en": "Vanuatu"
+    },
+    "country": "VU"
+  },
+  {
+    "id": "a92c1621-fad0-4bdd-963b-9623f7514df2",
+    "name": {
+      "primary": "Sāmoa",
+      "ka": "სამოა",
+      "en": "Samoa"
+    },
+    "country": "WS"
+  },
+  {
+    "id": "27b5ecfd-6867-4946-9b59-f10ba05694bd",
+    "name": {
+      "primary": "Хабомаи",
+      "en": "Habomai Islands"
+    },
+    "country": "XA"
+  },
+  {
+    "id": "cd5b36c5-d7c6-4595-b009-c54c11fec925",
+    "name": {
+      "primary": "Extent of Japanese claim at Liancourt Rocks"
+    },
+    "country": "XB"
+  },
+  {
+    "id": "5bc2315f-396d-42bd-b899-1f731b3c498e",
+    "name": {
+      "primary": "巴里加斯",
+      "en": "Demchok sector"
+    },
+    "country": "XC"
+  },
+  {
+    "id": "b1706842-2fd9-4c18-95c5-86f9cf35447c",
+    "name": {
+      "primary": "钓鱼岛及其附属岛屿/釣魚臺列嶼/尖閣諸島",
+      "en": "Senkaku Islands / Diaoyudao Islands / Diaoyutai Islands"
+    },
+    "country": "XD"
+  },
+  {
+    "id": "f7224d14-4120-4e12-8e48-0ba9dc181f39",
+    "name": {
+      "primary": "قطاع غزة",
+      "ka": "ღაზის სექტორი",
+      "en": "Gaza Strip"
+    },
+    "country": "XG"
+  },
+  {
+    "id": "9b7d1a58-1050-4d34-91d4-496123b5d8f5",
+    "name": {
+      "primary": "נפת רמת הגולן",
+      "en": "Golan Subdistrict"
+    },
+    "country": "XH"
+  },
+  {
+    "id": "419b2f2b-651e-40bd-a7f8-776f10d4f37d",
+    "name": {
+      "primary": "Итуруп",
+      "en": "Iturup"
+    },
+    "country": "XI"
+  },
+  {
+    "id": "2d07ff45-87e6-4903-8b2d-fd2c8f703572",
+    "name": {
+      "primary": "Kosova / Kosovo",
+      "ka": "კოსოვო",
+      "en": "Kosovo"
+    },
+    "country": "XK"
+  },
+  {
+    "id": "b177c266-834b-48f9-a786-52fa46412405",
+    "name": {
+      "primary": "均郎、乌热、然冲、香扎、拉不底地区",
+      "en": "Barahoti disputed area"
+    },
+    "country": "XL"
+  },
+  {
+    "id": "a43d592a-fad4-4a24-89f3-8ecbd0326a2d",
+    "name": {
+      "primary": "Abu Musa",
+      "en": "Abu Musa"
+    },
+    "country": "XM"
+  },
+  {
+    "id": "aed548b9-2f89-4515-b023-4a50e0f3b6c0",
+    "name": {
+      "primary": "Tunb",
+      "en": "Tunb Islands"
+    },
+    "country": "XN"
+  },
+  {
+    "id": "5c6058ea-b13a-4e15-98e0-ed1c28c98011",
+    "name": {
+      "primary": "Шикотан",
+      "en": "Shikotan"
+    },
+    "country": "XO"
+  },
+  {
+    "id": "e758fbf1-25c0-4e5e-8b9d-cd468bf3b47e",
+    "name": {
+      "primary": "Paracel Islands",
+      "en": "Paracel Islands"
+    },
+    "country": "XP"
+  },
+  {
+    "id": "f9116ff4-9091-4217-adea-f677f68e2fc0",
+    "name": {
+      "primary": "Nilang-Jadhang disputed area",
+      "en": "Nilang-Jadhang disputed area"
+    },
+    "country": "XQ"
+  },
+  {
+    "id": "ae3b7d6d-cc39-47e3-832d-02902e3c9a7b",
+    "name": {
+      "primary": "Spratly Islands",
+      "en": "Spratly Islands"
+    },
+    "country": "XR"
+  },
+  {
+    "id": "64017c11-c22b-453d-be62-9a47c46f685c",
+    "name": {
+      "primary": "بئر طويل",
+      "en": "Bir Tawil"
+    },
+    "country": "XT"
+  },
+  {
+    "id": "39d6f33f-0f6c-432e-9359-7030fd9b8313",
+    "name": {
+      "primary": "Кунашир",
+      "ka": "კუნაშირი",
+      "en": "Kunashir"
+    },
+    "country": "XU"
+  },
+  {
+    "id": "9d886720-144d-4802-9ce3-5b7007f0c904",
+    "name": {
+      "primary": "West Bank",
+      "en": "West Bank"
+    },
+    "country": "XW"
+  },
+  {
+    "id": "df596c1f-b465-4efb-916f-93978d60dd05",
+    "name": {
+      "primary": "巨哇-曲惹地区",
+      "en": "Gue-Kaurik disputed area"
+    },
+    "country": "XX"
+  },
+  {
+    "id": "e6c26737-e4e1-468a-b152-ddacd1e920c7",
+    "name": {
+      "primary": "أبيى",
+      "en": "Abyei"
+    },
+    "country": "XY"
+  },
+  {
+    "id": "5f9327fb-5f13-4aab-9b89-e347a261a8af",
+    "name": {
+      "primary": "No man's land",
+      "en": "No man's land"
+    },
+    "country": "XZ"
+  },
+  {
+    "id": "9465c3a0-69a9-41b5-bb58-bc8603e24973",
+    "name": {
+      "primary": "اليمن",
+      "ka": "იემენი",
+      "en": "Yemen"
+    },
+    "country": "YE"
+  },
+  {
+    "id": "edc91c28-c63d-4912-92a0-6a3cd305d104",
+    "name": {
+      "primary": "South Africa",
+      "ka": "სამხრეთ აფრიკა",
+      "en": "South Africa"
+    },
+    "country": "ZA"
+  },
+  {
+    "id": "66b0a9dc-76ee-4654-8ee0-502196ee6f8b",
+    "name": {
+      "primary": "Zambia",
+      "ka": "ზამბია",
+      "en": "Zambia"
+    },
+    "country": "ZM"
+  },
+  {
+    "id": "93b2baa8-ba8b-41d3-96f0-6187bd24cbcc",
+    "name": {
+      "primary": "Zimbabwe",
+      "ka": "ზიმბაბვე",
+      "en": "Zimbabwe"
+    },
+    "country": "ZW"
+  }
+]
