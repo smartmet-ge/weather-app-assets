@@ -90,7 +90,6 @@ export const typeMap: { [key in WarningType]: string } = {
   'ზვავსაშიშროების ძალიან მაღალი დონე': 'avalanche-danger-warning',
   'გაფრთხილება სეტყვის შესახებ': 'hail-warning',
   'გაფრთხილება წყალმოვარდნის შესახებ': 'flash-flood-warning',
-  'გაფრთხილება წყალმოვა': 'flash-flood-warning',
   'გაფრთხილება წყალდიდობის შესახებ': 'flood-warning',
   'გაფრთხილება ძლიერი თოვის შესახებ': 'heavy-snowfall-warning',
   'გაფრთხილება ძლიერი თოვის და ძლიერი ქარის შესახებ': 'heavy-snowfall-and-strong-wind-warning',
