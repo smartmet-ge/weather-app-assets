@@ -7,3 +7,5 @@ export const REGULAR_FONT = 'FiraGO-Regular';
 export const MEDIUM_FONT = 'FiraGO-Medium';
 export const BOLD_FONT = 'FiraGO-Bold';
 export const SEMIBOLD_FONT = 'FiraGO-SemiBold';
+
+export const MAC_CONTENT_SIZE_MULTIPLIER = 1.3;
