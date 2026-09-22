@@ -63,7 +63,8 @@ export const typeMap: { [key in WarningType]: string } = {
   'Urban flood warning': 'flash-flood-warning',
   'Flood warning': 'flood-warning',
   'Heavy snowfall warning': 'heavy-snowfall-warning',
-  'Heavy snowfall and strong wind warning': 'heavy-snowfall-and-strong-wind-warning',
+  'Heavy snowfall and strong wind warning':
+    'heavy-snowfall-and-strong-wind-warning',
   'High daytime temperature warning': 'high-daytime-temperature-warning',
   'High nighttime temperature warning': 'high-nighttime-temperature-warning',
   'Low temperature warning': 'low-temperature-warning',
@@ -80,7 +81,8 @@ export const typeMap: { [key in WarningType]: string } = {
   'Sea storm warning': 'sea-storm-warning',
 
   'გაფრთხილება ძლიერი ქარის შესახებ': 'strong-wind-warning',
-  'გაფრთხილება ძლიერი ქარისა და ხილვადობის გაუარესების შესახებ': 'strong-wind-warning',
+  'გაფრთხილება ძლიერი ქარისა და ხილვადობის გაუარესების შესახებ':
+    'strong-wind-warning',
   'გაფრთხილება ძლიერი ნალექების შესახებ': 'heavy-precipitation-warning',
   'გაფრთხილება ძლიერი ნალექებისა და ელჭექის შესახებ': 'thunderstorm-warning',
   'ზვავსაშიშროების დაბალი დონე': 'avalanche-danger-warning',
@@ -92,9 +94,12 @@ export const typeMap: { [key in WarningType]: string } = {
   'გაფრთხილება წყალმოვარდნის შესახებ': 'flash-flood-warning',
   'გაფრთხილება წყალდიდობის შესახებ': 'flood-warning',
   'გაფრთხილება ძლიერი თოვის შესახებ': 'heavy-snowfall-warning',
-  'გაფრთხილება ძლიერი თოვის და ძლიერი ქარის შესახებ': 'heavy-snowfall-and-strong-wind-warning',
-  'გაფრთხილება დღის მაღალი ტემპერატურის შესახებ': 'high-daytime-temperature-warning',
-  'გაფრთხილება ღამის მაღალი ტემპერატურის შესახებ': 'high-nighttime-temperature-warning',
+  'გაფრთხილება ძლიერი თოვის და ძლიერი ქარის შესახებ':
+    'heavy-snowfall-and-strong-wind-warning',
+  'გაფრთხილება დღის მაღალი ტემპერატურის შესახებ':
+    'high-daytime-temperature-warning',
+  'გაფრთხილება ღამის მაღალი ტემპერატურის შესახებ':
+    'high-nighttime-temperature-warning',
   'გაფრთხილება ჰაერის დაბალი ტემპერატურის შესახებ': 'low-temperature-warning',
   'გაფრთხილება ადრეული წაყინვის შესახებ': 'early-frost-warning',
   'გაფრთხილება გვიანი წაყინვის შესახებ': 'late-frost-warning',
@@ -103,13 +108,14 @@ export const typeMap: { [key in WarningType]: string } = {
   'რეკომენდაცია მეწყრის საფრთხის შესახებ': 'landslide-advisory',
   'გაფრთხილება მეწყრის საფრთხის შესახებ': 'landslide-warning',
   'გაფრთხილება ჰაერის ხარისხის შესახებ': 'airquality-warning',
-  'გაფრთხილება ულტრაიისფერი გამოსხივების მაღალი დონის შესახებ': 'uv-radiation-warning',
+  'გაფრთხილება ულტრაიისფერი გამოსხივების მაღალი დონის შესახებ':
+    'uv-radiation-warning',
   'გაფრთხილება შტორმული ღელვის შესახებ': 'sea-storm-warning',
   'გაფრთხილება ზღვაზე შტორმის შესახებ': 'sea-storm-warning',
 
   // do not delete
-  'wind': 'obsolete',
-  'seaWind': 'obsolete',
+  wind: 'obsolete',
+  seaWind: 'obsolete',
 };
 
 export const landEvents = [
@@ -124,6 +130,7 @@ export const landEvents = [
   'Very high snow avalanche danger',
   'Hail warning',
   'Flash flood warning',
+  'Urban flood warning',
   'Flood warning',
   'Heavy snowfall warning',
   'Heavy snowfall and strong wind warning',
@@ -142,8 +149,6 @@ export const landEvents = [
   'Extreme UV radiation warning',
 ] as const;
 
-export const seaEvents = [
-  'Sea storm warning',
-] as const;
+export const seaEvents = ['Sea storm warning'] as const;
 
 export default WarningSymbol;
